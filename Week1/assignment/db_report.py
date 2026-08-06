@@ -8,6 +8,7 @@ aggregation questions (Q6, Q7, Q8) from the Week 1 SQL assignment.
 import logging
 import psycopg2
 
+
 # ── Logging setup — same pattern as the Python pre-read ──────────────────
 logging.basicConfig(
     level=logging.INFO,

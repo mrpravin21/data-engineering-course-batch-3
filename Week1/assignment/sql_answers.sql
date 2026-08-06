@@ -81,6 +81,7 @@ FROM rides
 GROUP BY ride_status
 ORDER BY ride_count DESC;
 
+
 -- Q9 — A new driver's first ride (Basic–Intermediate · DML)
 -- 9a. INSERT the new ride (ride_id 9001, rating NULL)
 
