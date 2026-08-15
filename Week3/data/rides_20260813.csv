@@ -1,0 +1,13 @@
+ride_id,driver_name,passenger_name,pickup_city,dropoff_city,fare_amount,ride_distance_km,ride_status,requested_at,completed_at,rating,payment_method
+5001,Rajan Pandey,Kavya Poudel,Kirtipur,Birgunj,80.00,7.50,completed,2026-08-13 17:24:29,2026-08-13 17:37:16.000000,3.5,cash
+5002,Nisha Bista,Ritu Koirala,Butwal,Birgunj,421.72,35.14,no_show,2026-08-13 11:09:25,,,
+5003,Bikash Karki,Prem Basnet,Kirtipur,Hetauda,389.11,21.12,completed,2026-08-13 08:32:09,2026-08-13 09:17:39.000000,4.5,card
+5004,Rajan Pandey,Ashok Neupane,Lalitpur,Hetauda,441.77,38.46,completed,2026-08-13 23:08:00,2026-08-14 00:43:40.000000,3.6,khalti
+5005,Sita Tamang,Suman Giri,Hetauda,Birgunj,97.30,7.97,completed,2026-08-13 14:59:21,2026-08-13 15:18:42.000000,3.2,esewa
+5006,Priya Gurung,Arun Joshi,Kirtipur,Pokhara,379.21,17.72,completed,2026-08-13 07:31:14,2026-08-13 08:10:35.000000,3.0,card
+5007,Bikash Karki,Suman Giri,Kirtipur,Chitwan,325.24,32.84,completed,2026-08-13 06:55:54,2026-08-13 08:01:41.000000,4.5,card
+5008,Deepak Thapa,Niraj Acharya,Kirtipur,Kathmandu,97.97,8.94,completed,2026-08-13 01:18:01,2026-08-13 01:33:56.000000,3.0,card
+5009,Bikash Karki,Sabina Dahal,Biratnagar,Hetauda,482.88,47.30,completed,2026-08-13 21:32:33,2026-08-13 23:26:45.000000,,esewa
+5010,Deepak Thapa,Sanjay Maharjan,Pokhara,Chitwan,215.81,20.92,completed,2026-08-13 07:22:19,2026-08-13 08:00:04.000000,3.8,cash
+5011,Nisha Bista,Dipesh Oli,Biratnagar,Kathmandu,400.01,27.76,completed,2026-08-13 08:56:37,2026-08-13 09:25:23.000000,3.9,card
+5012,Ramesh Shrestha,Dipesh Oli,Pokhara,Bhaktapur,509.78,37.35,no_show,2026-08-13 23:49:49,,,esewa
