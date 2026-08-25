@@ -126,35 +126,39 @@ def load_dim_promo_code(conn, promo_code_data):
 
 def load_fact_trips(conn, fact_data):
     insert_fact_trips_sql = """
- INSERT INTO fact_trips
-    (source_trip_id, date_key, driver_key, passenger_key,
-     pickup_location_key, dropoff_location_key,
-     payment_method_key, promo_code_key,
-     base_fare, tip_amount, discount_amount, fare_amount,
-     distance_km, duration_minutes,
-     driver_rating, passenger_rating,
-     surge_multiplier, requested_at)
-    VALUES ( %(source_trip_id)s,
-             %(date_key)s,
-             %(driver_key)s,
-             %(passenger_key)s,
-             %(pickup_location_key)s,
-             %(dropoff_location_key)s,
-             %(payment_method_key)s,
-             %(promo_code_key)s,
-             %(base_fare)s,
-             %(tip_amount)s,
-             %(discount_amount)s,
-             %(fare_amount)s,
-             %(distance_km)s,
-             %(duration_minutes)s,
-             %(driver_rating)s,
-             %(passenger_rating)s,
-             %(surge_multiplier)s,
-             %(requested_at)s
-            )
+    INSERT INTO fact_trips
+    (
+        source_trip_id, date_key, time_key, driver_key, passenger_key,
+        pickup_location_key, dropoff_location_key,
+        payment_method_key, promo_code_key,
+        base_fare, tip_amount, discount_amount, fare_amount,
+        distance_km, duration_minutes,
+        driver_rating, passenger_rating,
+        surge_multiplier, requested_at
+    )
+    VALUES ( 
+        %(source_trip_id)s,
+        %(date_key)s,
+        %(time_key)s, 
+        %(driver_key)s,
+        %(passenger_key)s,
+        %(pickup_location_key)s,
+        %(dropoff_location_key)s,
+        %(payment_method_key)s,
+        %(promo_code_key)s,
+        %(base_fare)s,
+        %(tip_amount)s,
+        %(discount_amount)s,
+        %(fare_amount)s,
+        %(distance_km)s,
+        %(duration_minutes)s,
+        %(driver_rating)s,
+        %(passenger_rating)s,
+        %(surge_multiplier)s,
+        %(requested_at)s
+    )
     ON CONFLICT (source_trip_id) DO NOTHING
-"""
+    """
     if not fact_data:
         logger.info("No fact rows to load — skipping")
         return

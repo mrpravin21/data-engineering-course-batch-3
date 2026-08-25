@@ -1,19 +1,36 @@
-
 import logging
 logger = logging.getLogger(__name__)
+
 
 def transform(oltp_row, lookups):
     fact_rows = []
     skipped = 0
     for row in oltp_row:
         trip_id = row["trip_id"]
+        if row["requested_at"] is None:
+            logger.warning(f"trip {trip_id}: requested_at is NULL — skipped")
+            skipped += 1
+            continue
 
+        # ── Date Key ──────────────────────────────────────────────────────────
         date_key = int(row["requested_at"].strftime("%Y%m%d"))
         if date_key not in lookups["date"]:
             logger.warning(f"trip {trip_id}: date_key {date_key} outside of dim_date range — skipped")
             skipped += 1
             continue
 
+        # ── Time Key ──────────────────────────────────────────────
+        req_time = row["requested_at"]
+        # Round down minutes to the nearest 15-minute bucket (0, 15, 30, 45)
+        minute_bucket = (req_time.minute // 15) * 15
+        time_key = (req_time.hour * 100) + minute_bucket
+
+        if time_key not in lookups["time"]:
+            logger.warning(f"trip {trip_id}: time_key {time_key} not found in dim_time — skipped")
+            skipped += 1
+            continue
+
+        # ── Dimension Lookups ─────────────────────────────────────────────────
         driver_key = lookups["driver"].get(row["driver_id"])
         if driver_key is None:
             logger.warning(f"trip {trip_id}: driver_id {row['driver_id']} not in dim_driver — skipped")
@@ -38,9 +55,6 @@ def transform(oltp_row, lookups):
             skipped += 1
             continue
 
-        # payment_method_id / promo_code_id are nullable in trips (e.g. no_show trips
-        # have no payment method) and fact_trips allows NULL for both — only look
-        # up and skip when the OLTP row actually has a value.
         payment_method_key = None
         if row["payment_method_id"] is not None:
             payment_method_key = lookups["payment_method"].get(row["payment_method_id"])
@@ -57,21 +71,23 @@ def transform(oltp_row, lookups):
                 skipped += 1
                 continue
 
-        # computed column
+        # ── Measures ──────────────────────────────────────────────────────────
         base_fare = row['base_fare'] or 0
         tip_amount = row["tip_amount"] or 0
         surge_multiplier = row["surge_multiplier"] or 0
         discount_amount = row["discount_amount"] or 0
-        fare_amount  = round(base_fare * surge_multiplier + tip_amount - discount_amount,2)
+        fare_amount  = round(base_fare * surge_multiplier + tip_amount - discount_amount, 2)
 
         duration_minutes = None
         if row["status"] == "completed" and row["completed_at"]:
             delta = row["completed_at"] - row["requested_at"]
             duration_minutes = round(delta.total_seconds() / 60, 1)
 
+        # ── Output Map ────────────────────────────────────────────────────────
         fact_rows.append({
             "source_trip_id":       trip_id,
             "date_key":             date_key,
+            "time_key":             time_key,
             "driver_key":           driver_key,
             "passenger_key":        passenger_key,
             "pickup_location_key":  pickup_location_key,
@@ -88,7 +104,6 @@ def transform(oltp_row, lookups):
             "passenger_rating":     row["passenger_rating"],
             "surge_multiplier":     surge_multiplier,
             "requested_at":         row["requested_at"],
-            "status":               row["status"]
         })
 
     logger.info(f"Transformed {len(fact_rows)} rows, skipped {skipped}")

@@ -171,7 +171,7 @@ def extract_trips_full(conn):
 
 
 def extract_lookup_dim(conn):
-    logger.info("Loading lookup table into memmory")
+    logger.info("Loading lookup table into memory")
     lookup = {}
     with conn.cursor() as curr:
         curr.execute("SELECT driver_id, driver_key FROM dim_driver")
@@ -191,7 +191,12 @@ def extract_lookup_dim(conn):
 
         curr.execute("SELECT date_key FROM dim_date")
         lookup["date"] = {r[0]: True for r in curr.fetchall()}
+
+        curr.execute("SELECT time_key FROM dim_time")
+        lookup["time"] = {r[0]: True for r in curr.fetchall()}
+        
     return lookup
+
 
 def get_watermark(conn):
     """
