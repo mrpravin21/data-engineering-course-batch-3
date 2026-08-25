@@ -1,0 +1,4524 @@
+[
+  {
+    "Title": "Batman Begins",
+    "Year": "2005",
+    "imdbID": "tt0372784",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2022",
+    "imdbID": "tt1877830",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman v Superman: Dawn of Justice",
+    "Year": "2016",
+    "imdbID": "tt2975590",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1989",
+    "imdbID": "tt0096895",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Returns",
+    "Year": "1992",
+    "imdbID": "tt0103776",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin",
+    "Year": "1997",
+    "imdbID": "tt0118688",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Forever",
+    "Year": "1995",
+    "imdbID": "tt0112462",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Animated Series",
+    "Year": "1992\u20131995",
+    "imdbID": "tt0103359",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman v Superman: Dawn of Justice (Ultimate Edition)",
+    "Year": "2016",
+    "imdbID": "tt18689424",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTRlNWQwM2ItNjkyZC00MGI3LThkYjktZmE5N2FlMzcyNTIyXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Killing Joke",
+    "Year": "2016",
+    "imdbID": "tt4853102",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzJiZTJmNGItYTUwNy00ZWE2LWJlMTgtZjJkNzY1OTRiNTZlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Mask of the Phantasm",
+    "Year": "1993",
+    "imdbID": "tt0106364",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Under the Red Hood",
+    "Year": "2010",
+    "imdbID": "tt1569923",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dark Knight Returns, Part 1",
+    "Year": "2012",
+    "imdbID": "tt2313197",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dark Knight Returns, Part 2",
+    "Year": "2013",
+    "imdbID": "tt2166834",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTEzMmE0ZDYtYWNmYi00ZWM4LWJjOTUtYTE0ZmQyYWM3ZjA0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Movie",
+    "Year": "1966",
+    "imdbID": "tt0060153",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyYWZjNTAtNGRhZi00ZjFiLTlhYmQtNzhhYzJiZmMwNGI1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond",
+    "Year": "1999\u20132001",
+    "imdbID": "tt0147746",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDExYjNiYTYtZDkwZC00NDcxLTk3YWYtMmIyN2ZlZGYyY2E0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Son of Batman",
+    "Year": "2014",
+    "imdbID": "tt3139072",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTVhZGUxMmEtNDdlMi00MTA5LTgxNjctNGJmNDBmYTQ5YTIyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Year One",
+    "Year": "2011",
+    "imdbID": "tt1672723",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTJjMmVkZjctNjNjMS00ZmI2LTlmYWEtOWNiYmQxYjY0YWVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Assault on Arkham",
+    "Year": "2014",
+    "imdbID": "tt3139086",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDU1ZGRiY2YtYmZjMi00ZDQwLWJjMWMtNzUwNDMwYjQ4ZTVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1966\u20131968",
+    "imdbID": "tt0059968",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFjNTdlZjctZTRkNC00OTQ1LWI3NDktOWY0ZWZmNzFiOTNkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Gotham Knight",
+    "Year": "2008",
+    "imdbID": "tt1117563",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2I0YTFjOTUtMWYzNC00ZTgyLTk2NWEtMmE3N2VlYjEwN2JlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham City",
+    "Year": "2011",
+    "imdbID": "tt1568322",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDE2ZDFhMDAtMDAzZC00ZmY3LThlMTItMGFjMzRlYzExOGE1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Superman/Batman: Apocalypse",
+    "Year": "2010",
+    "imdbID": "tt1673430",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond: Return of the Joker",
+    "Year": "2000",
+    "imdbID": "tt0233298",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Ninja",
+    "Year": "2018",
+    "imdbID": "tt7451284",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhMGVhMjEtNzgyZC00ZGNiLWFkN2QtNjdmNTg2MzVjOTMwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Long Halloween, Part One",
+    "Year": "2021",
+    "imdbID": "tt14324650",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ2NTY5YmUtMjQ2Yi00NzhhLWI4OGItNTIxNTVkZGE0ZGIwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Superman/Batman: Public Enemies",
+    "Year": "2009",
+    "imdbID": "tt1398941",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Bad Blood",
+    "Year": "2016",
+    "imdbID": "tt4870838",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWZiZmZhYmQtYjVkZi00MWIzLWEzM2MtYzhkNjliNzc2MTMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The New Batman Adventures",
+    "Year": "1997\u20131999",
+    "imdbID": "tt0118266",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGY3M2UyMmQtMWM5Zi00Njg1LWIxOWUtYmE0Mjg3Zjg3NTdiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs. Robin",
+    "Year": "2015",
+    "imdbID": "tt4324274",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODY2MDE5Nl5BMl5BanBnXkFtZTgwMTk0NTcyNTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham Asylum",
+    "Year": "2009",
+    "imdbID": "tt1282022",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWE1MGI0ZmItNzU2My00Mzk5LThkNTMtMmFiMjRiZDNlNzkwXkEyXkFqcGdeQXVyNjgyODQ1Mzk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Gotham by Gaslight",
+    "Year": "2018",
+    "imdbID": "tt7167630",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5OWM2NWEtZjRhYy00NzkxLWI2NmUtNDA0NjM4MjIwOWI4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Long Halloween, Part Two",
+    "Year": "2021",
+    "imdbID": "tt14402926",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWViZDQ4NGYtYjEwMi00YjFhLTg4NjQtNDlmNjY3YTJlZjIyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman: Deleted Arkham Scene",
+    "Year": "2022",
+    "imdbID": "tt19064880",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2ZGFjOWEtYjc4Mi00ZTdmLWE2MDEtZWMzYWE1NmE4NTg4XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg"
+  },
+  {
+    "Title": "Batman and Harley Quinn",
+    "Year": "2017",
+    "imdbID": "tt6556890",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTk5NjhjY2ItM2ViYi00YjZjLWEyZDgtNzRjOTYwMmY4YjVmXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Caped Crusader",
+    "Year": "2024\u2013",
+    "imdbID": "tt14681596",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODljODc0MzYtMWRlMi00NmU5LWI0NzAtNWZmZmU3YWFkNTE4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Hush",
+    "Year": "2019",
+    "imdbID": "tt8752440",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5ODhlMWQtNDRiMC00MDk0LTgyMDItYmRmYWFkMjdmYWFmXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2004\u20132008",
+    "imdbID": "tt0398417",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGRkYTkyOGQtZDVlYy00ZjhjLTk5YjMtNzgxMWUxZTk1ZWZkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Mr. Freeze: SubZero",
+    "Year": "1998",
+    "imdbID": "tt0143127",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0NmUzMzAtODk5My00MzYwLThlYWEtY2NkOGNhODg5ZmY1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Begins",
+    "Year": "2005",
+    "imdbID": "tt0450392",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWRkMGNjYmQtMTJlMi00ODgyLWIyZGEtOTZkY2FlZWI3NzIwXkEyXkFqcGdeQXVyNDEyNjEzOTg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham Origins",
+    "Year": "2013",
+    "imdbID": "tt2842418",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzczNTkxODU5NF5BMl5BanBnXkFtZTgwNDcwMzU1MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Mystery of the Batwoman",
+    "Year": "2003",
+    "imdbID": "tt0346578",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2IwYTVlZGQtOTRhNy00MDI5LThmMTUtYWI1MGUwMGFkYzI1XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Brave and the Bold",
+    "Year": "2008\u20132011",
+    "imdbID": "tt1213218",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkYTQ2MzUtNWI1NC00MTM0LTgyNzYtMDM3NmE1OWYyNjRjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman Superman Movie: World's Finest",
+    "Year": "1997",
+    "imdbID": "tt0169590",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmYwMWM1MTEtODA0ZS00OTY3LTgzMTQtOGY5Y2Q2ZmNjNTg1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs Teenage Mutant Ninja Turtles",
+    "Year": "2019",
+    "imdbID": "tt9775360",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman vs. Dracula",
+    "Year": "2005",
+    "imdbID": "tt0472219",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMTMwNjA3MV5BMl5BanBnXkFtZTcwNzE2NTI2OQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham Knight",
+    "Year": "2015",
+    "imdbID": "tt3554580",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MTcxMzQ0Ml5BMl5BanBnXkFtZTgwNDc3MzE0MTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Soul of the Dragon",
+    "Year": "2021",
+    "imdbID": "tt12885852",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzA4NmVhOTItNzg4MC00YTJjLTk5ZmMtYTJmY2NhM2ZiNmMyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Doom That Came to Gotham",
+    "Year": "2023",
+    "imdbID": "tt24223450",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2QwMDFkODMtOTAyNC00ZDA4LTk1MzYtMGExOWI3MjdhZDlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+  },
+  {
+    "Title": "Batman: Return of the Caped Crusaders",
+    "Year": "2016",
+    "imdbID": "tt5973626",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzczMWZmYzQtMjQ4Mi00MWNjLTgyNWYtYjE0ZTEyMmZhMzJiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond: The Movie",
+    "Year": "1999",
+    "imdbID": "tt0231237",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NmJiNmUtNmNlOC00YTRhLWJlZmUtN2U1ZjgxYjM1N2IzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and Superman: Battle of the Super Sons",
+    "Year": "2022",
+    "imdbID": "tt21197740",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRiMDYzMDQtMWI3ZC00MWEwLWJkYzYtNjQwNzZjODEzNmZiXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman: Dead End",
+    "Year": "2003",
+    "imdbID": "tt0374526",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMDI0MTIyNF5BMl5BanBnXkFtZTYwMTUxMTY3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: The Movie - DC Super Heroes Unite",
+    "Year": "2013",
+    "imdbID": "tt2465238",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjRjOGU2NzUtMjAwOC00MDI3LThmNmUtNTVkZTQ0MDEyYTc1XkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beware the Batman",
+    "Year": "2013\u20132014",
+    "imdbID": "tt2329077",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGUyOWZiZGItZmYxNC00YWM2LThkNWUtZjBiMDM3MDg3NTg3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Merry Little Batman",
+    "Year": "2023",
+    "imdbID": "tt15352516",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzNDM3ZTItY2EyOS00YzYzLTk3YTAtOWExYzA1MjI3OWExXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Ninja vs. Yakuza League",
+    "Year": "2025",
+    "imdbID": "tt32508210",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY0NWZiM2EtNWMzNi00NmY3LTg3Y2ItZDg0YzQ0M2E0NTA4XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman vs. Two-Face",
+    "Year": "2017",
+    "imdbID": "tt6142314",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyY2NjNzgtZDAxNi00OWM2LTg3MDUtOTcyOGU1OTdjODNjXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Long Halloween",
+    "Year": "2021",
+    "imdbID": "tt21445686",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmI1MGYwMTEtOWIyMS00OTIyLWI1NDEtMmU2MTk3YTE5ZTE3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Telltale Series",
+    "Year": "2016",
+    "imdbID": "tt5785964",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ0YTU2ZjgtZmZiZC00YWM2LTljYWYtOWI2NzUzZmIwMzg4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unlimited: Animal Instincts",
+    "Year": "2015",
+    "imdbID": "tt4437640",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTAyNDY0NF5BMl5BanBnXkFtZTgwMjc0Mzc1NTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Scooby-Doo & Batman: The Brave and the Bold",
+    "Year": "2018",
+    "imdbID": "tt7578566",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzg1NGY1YjItMDc5MC00NDkwLTgxZTItNjFlYWM5YzI1ZGNiXkEyXkFqcGdeQXVyMzc1MzYxMjc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: The Videogame",
+    "Year": "2008",
+    "imdbID": "tt1149317",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjViNzNkNjAtMGZmZi00MDM2LTk1OGUtYjVlNzhjNjIxNDgwXkEyXkFqcGdeQXVyMTAyNzc0MDkz._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1943",
+    "imdbID": "tt0035665",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ0ZGViZTUtZmUzMi00YjkwLTg2ZWUtNjk0ZDg0NzE2OTQ3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unlimited: Monster Mayhem",
+    "Year": "2015",
+    "imdbID": "tt4729754",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTFlMGFmNWUtNzExNy00ZWY2LWIxN2ItODFlYTg5YzEzYmU3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond",
+    "Year": "2014",
+    "imdbID": "tt3643216",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWI0ZmFmYjAtZGFkMy00MTMyLTgzZWYtMzM2ZGYwNTJmZDc0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Bill",
+    "Year": "2017",
+    "imdbID": "tt6067832",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmZmODk2NDgtY2JhMC00NzRiLWE4YWMtZGQyMDJhYzkxMWU0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and Robin",
+    "Year": "1949",
+    "imdbID": "tt0041162",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzRlZDY0ZWUtYTY3Yy00ZTQ2LTkzNDgtMTk3ZmExYjBlYjhhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dark Knight",
+    "Year": "2008",
+    "imdbID": "tt2098632",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzRjOTg1YWYtZTE0NC00MGI5LTlmNDAtMzllM2M1MmQ4N2ViXkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman 2: DC Super Heroes",
+    "Year": "2012",
+    "imdbID": "tt2316821",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWFmYjczZjgtMDI1Yi00ZTkyLTgzYTQtY2MzOTFlMTMwMDM5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Strange Days",
+    "Year": "2014",
+    "imdbID": "tt3643208",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDgxMGM1ZTUtZjljNC00MWUzLTk2ZjYtZmE3ZmFmMzgxZTU2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Death in the Family",
+    "Year": "2020",
+    "imdbID": "tt12794046",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWNhNzk2YjItOWZiZC00ZGM0LTg2NjUtYzgwYWQzNjk0NjlmXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego DC Comics: Batman Be-Leaguered",
+    "Year": "2014",
+    "imdbID": "tt4189294",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmY2MTUzMDUtNWNmYS00MTkwLWI2ZTgtZTNlNTc3Mzk0ZDQ5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Adventures of Batman",
+    "Year": "1968\u20131969",
+    "imdbID": "tt0062544",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjU0M2ZjZWEtMjA2YS00MzNkLWI5ZTQtMTlkZDJiM2Q4YjgwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego DC Batman: Family Matters",
+    "Year": "2019",
+    "imdbID": "tt10327712",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGRhNGU2YWYtZWFjZS00MzFlLTkzZGUtODcxNzUxODA1MmQ1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unlimited: Mechs vs. Mutants",
+    "Year": "2016",
+    "imdbID": "tt5896146",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhZTNmZTQtZTgwYS00YWE5LThjMjktMjFkNjEwYzdkODA2XkEyXkFqcGdeQXVyNDM1NDAyNDk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The New Adventures of Batman",
+    "Year": "1977\u20131978",
+    "imdbID": "tt0075543",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzdjMmNmNDAtN2VjMy00NjcyLWJmZTAtOGJhMGE2YThjNjY4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dark Knight Returns",
+    "Year": "2013",
+    "imdbID": "tt11060882",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMGE4NDQtM2MwMS00YzhlLTlkYjgtNmExNzM1ZDBhYzg1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman 3: Beyond Gotham",
+    "Year": "2014",
+    "imdbID": "tt3757728",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q5YWY4YTEtYzBmOS00MzE3LTgwOTYtYTBmZTdiNjMzNDY5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs Joker: Final Joke",
+    "Year": "2008",
+    "imdbID": "tt29010341",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwYjdhODAtZGQwNC00NWQ2LTk3NWEtMzljY2ZmYzdlMWJhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Aztec Batman: Clash of Empires",
+    "Year": "2025",
+    "imdbID": "tt21110654",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmMzNWY1NGYtZDI2Mi00MWU2LWI4MGEtMzcyMGNkOWRmZjhjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Death of Batman",
+    "Year": "2003",
+    "imdbID": "tt0377753",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTIyMDE2MF5BMl5BanBnXkFtZTcwMjQzNTM4Ng@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Scooby-Doo Meets Batman",
+    "Year": "1972",
+    "imdbID": "tt13370102",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkNmFhNDUtNWIxZS00MmMwLWFjNDAtYTc1NTJlZDkzZTI0XkEyXkFqcGdeQXVyNTMyODM3MTg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unlimited",
+    "Year": "2015\u20132016",
+    "imdbID": "tt4818178",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTFlMDllMTMtZjJhZS00MmIxLWJmMzItZDU0MTdlNGUxMTE3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Superman, Spiderman or Batman",
+    "Year": "2011",
+    "imdbID": "tt2084949",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4MzcxNDU3N15BMl5BanBnXkFtZTgwOTE1MzMxNzE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unmasked",
+    "Year": "2008",
+    "imdbID": "tt1265589",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzUwZmIwZGMtN2I4Ni00OGZlLTg3MDctMDA4Zjk5NzBlNWNjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham Knight",
+    "Year": "2015",
+    "imdbID": "tt3421844",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDA4MDI0N15BMl5BanBnXkFtZTgwNjk2ODc4MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham Origins - Blackgate",
+    "Year": "2013",
+    "imdbID": "tt2973462",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxMzYxMzE1M15BMl5BanBnXkFtZTgwNjExMzc1MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Legends",
+    "Year": "2006",
+    "imdbID": "tt0846671",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjBiNjQwMTktNzUwYi00ZjlkLTk3YTctYWFjNzkwZGQwNDg0XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Black and White",
+    "Year": "2008\u20132009",
+    "imdbID": "tt1458796",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTI2MWFhM2EtM2M3YS00OTM1LThkMWYtNzFhODIxZTYxZDJlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Rise of Sin Tzu",
+    "Year": "2003",
+    "imdbID": "tt0395109",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGQyMmU0ODQtMzNiMS00ZDM2LTkzMzEtNzZkNjQxZmQ1N2VmXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Vengeance",
+    "Year": "2001",
+    "imdbID": "tt0285446",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzIxNWUtNWUyNi00YzgxLTgyMjUtNzc4OGI3YWZmZWMzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: New Times",
+    "Year": "2005",
+    "imdbID": "tt0482900",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4Nzc4MTE5OF5BMl5BanBnXkFtZTcwMjcwMzY2Ng@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman Chronicles",
+    "Year": "2014",
+    "imdbID": "tt3196134",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NTY1MjU3NF5BMl5BanBnXkFtZTgwMjY5NzM4MTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Legends of the Dark Knight: The History of Batman",
+    "Year": "2005",
+    "imdbID": "tt0486410",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOThhYmY3MjItMWFiZC00ZmRjLTg1NmQtMzdkMDJkYzc0ZDNhXkEyXkFqcGdeQXVyNzAwMjQwMTA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham Origins - Cold, Cold Heart",
+    "Year": "2014",
+    "imdbID": "tt3595492",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3ODMyMzAtNjc5YS00MWMyLWFiZGItN2M3MjJjMDk1ZDkxXkEyXkFqcGdeQXVyNTQ2MjM5MTg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Dracula",
+    "Year": "1964",
+    "imdbID": "tt0057875",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiYTYyMWQtZmNmMy00YzU2LWFkNjctOTA5MmZlNzVjMzI5XkEyXkFqcGdeQXVyNjUzNTMxNDY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond",
+    "Year": "2015\u2013",
+    "imdbID": "tt4178838",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2NTQ5NzkzM15BMl5BanBnXkFtZTgwNjc4NjY5NTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Journey Begins",
+    "Year": "2005",
+    "imdbID": "tt0485593",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTc0MjQ1MTctZDNlMy00NTZjLTg1MjMtN2NkMGI2ZDAwYjg3XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Alyas Batman en Robin",
+    "Year": "1991",
+    "imdbID": "tt0121067",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2YzkyODctZWRhOC00NDFkLThmNjEtZjE0MTY4N2Q1YWE5XkEyXkFqcGdeQXVyNTYyNzQ2MjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Heart of Batman",
+    "Year": "2018",
+    "imdbID": "tt9555800",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGE1OTNmMDAtNWQ2YS00Zjc1LTlkMTMtM2UxYmU0ZDNmOTFlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1989",
+    "imdbID": "tt0206583",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Tech",
+    "Year": "2008",
+    "imdbID": "tt1265588",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWM4ZWQ2ODktNWE5Mi00YmZiLTkzOTMtYzZjMTI1ZjU2MjJiXkEyXkFqcGdeQXVyMTc5MjA5MDQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Returns",
+    "Year": "1992",
+    "imdbID": "tt0290455",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Ashes to Ashes",
+    "Year": "2009",
+    "imdbID": "tt2089628",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExODYwNjU5OF5BMl5BanBnXkFtZTcwOTEyNzU5Ng@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Is Just Not That Into You",
+    "Year": "2017",
+    "imdbID": "tt6843610",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTI0YmM5NmQtNzRjMC00ZWQ4LWFkNTUtYzExNTY5M2MwZTQwXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Forever: The Arcade Game",
+    "Year": "1996",
+    "imdbID": "tt0290454",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGVmYmM3MTktZGU2OC00YzI1LWJlOTUtZDE0NWNkMjA0ODBlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Tumbler",
+    "Year": "2005",
+    "imdbID": "tt0485594",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzNkNDUzYWUtNzJmNi00Y2I3LWJkOTYtMTljMzMyNDAyZmM0XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond",
+    "Year": "2000",
+    "imdbID": "tt0290453",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Begins: Path to Discovery",
+    "Year": "2005",
+    "imdbID": "tt0485689",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzRlMzBjYjItMmI0YS00MjJiLThiZmUtNGFkMWRkNzAwNjQxXkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Behind the Mask: The Batman Dead End Story",
+    "Year": "2015",
+    "imdbID": "tt3181178",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODczOTY0MTg1MV5BMl5BanBnXkFtZTgwODgwNjMyMjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond: Year One",
+    "Year": "2024",
+    "imdbID": "tt32034208",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODQwYjM2NmUtMTc3My00YWI4LTgxNzEtNjZlYTc3ZDRlZTUyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Adventures of Batman & Robin",
+    "Year": "1994",
+    "imdbID": "tt3339654",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdmYzYzYmYtZWE1Mi00MDdjLTgzNjQtMjM1ZjY1NjRhYzdhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Fights Dracula",
+    "Year": "1967",
+    "imdbID": "tt0061386",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjk3ODhjZDUtYmQwZS00MzI0LTgzNWItMjdjYmMxZjM4ZGI3XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "James Batman",
+    "Year": "1966",
+    "imdbID": "tt0361763",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDdhMDdiZDAtODYyNC00OGVhLTk0OGItYzkyOTFjNzBkOTgzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Fat Man on Batman with Kevin Smith & Marc Bernardin!",
+    "Year": "2015\u2013",
+    "imdbID": "tt5631058",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjgwZDlmMGUtYTM4NS00NjEyLWE2OTktYWU5ZmNkNDM4ZGFlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Long Halloween",
+    "Year": "2015",
+    "imdbID": "tt4705944",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODA2YzI0YTctZGYzOS00NzlhLTlmZDAtNjNhYmU1MzJiMjRhXkEyXkFqcGdeQXVyMjI4OTgyODI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Arkham City: Harley Quinn's Revenge",
+    "Year": "2012",
+    "imdbID": "tt9734584",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0NWNlMjUtYzA3YS00YmUwLWI4ZTMtMTM0NzNmNzczNzE2XkEyXkFqcGdeQXVyOTExNzM4NDM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Revealed",
+    "Year": "2012",
+    "imdbID": "tt2602174",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzYwMTM1MV5BMl5BanBnXkFtZTcwNDg4Mjc5OA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Riddle Me This: Why Is Batman Forever?",
+    "Year": "1995",
+    "imdbID": "tt0486464",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Adventures: Mad Love",
+    "Year": "2008",
+    "imdbID": "tt1614951",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZThiNzQzOWUtNDM3OC00MmFkLTk5NjAtNDYzYTFhNTc4OTk0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham VR",
+    "Year": "2016",
+    "imdbID": "tt5807562",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGU2MzZkOWQtM2U3Ny00NDQ0LTk3NjctOTE3Mjk5Njc4Y2Y2XkEyXkFqcGdeQXVyNDYyNDIxNDM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin",
+    "Year": "1998",
+    "imdbID": "tt0284883",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Superman vs. Batman: When Heroes Collide",
+    "Year": "2013",
+    "imdbID": "tt2662762",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Death Wish",
+    "Year": "2012",
+    "imdbID": "tt2197827",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTc2ZTEzOGItZmU0YS00Y2Y2LThlNDctNjMxM2ZlNjc3MTkwXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Shadows of the Bat: The Cinematic Saga of the Dark Knight - Batman Unbound",
+    "Year": "2005",
+    "imdbID": "tt0486908",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman vs. Superman",
+    "Year": "2014",
+    "imdbID": "tt4955340",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MDkwOTQxNV5BMl5BanBnXkFtZTgwOTExNzM2NjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Enemy Within",
+    "Year": "2017",
+    "imdbID": "tt7170214",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y5NjhlODctMGQ1ZS00Y2I0LTk0YjgtM2Y5MzFkZTBiZTAzXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Anarchy",
+    "Year": "2016",
+    "imdbID": "tt5516944",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODM3MmUyYjAtNzk1OS00ZjA1LTk0NmEtY2VkMjkxYjg4YzljXkEyXkFqcGdeQXVyMjE5MjI4NDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Abyss",
+    "Year": "2013\u2013",
+    "imdbID": "tt4856116",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2VlMmI5MDYtMjYyMC00OWM1LTk5ZGItOTE0OWQ1OWFiMWRlXkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Star Trek Versus Batman",
+    "Year": "2006",
+    "imdbID": "tt1001402",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2VkNzk4NzgtMzIyZS00NTNkLTliMjUtODI5MTU3NGI0NGQ3XkEyXkFqcGdeQXVyNjU5MTIxNTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "2006",
+    "imdbID": "tt1487869",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Dark Tomorrow",
+    "Year": "2003",
+    "imdbID": "tt0291745",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Revenge of the Joker",
+    "Year": "1992",
+    "imdbID": "tt0469030",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjhjZjA1NTUtZTM0NS00MTQ3LWFjOTktNWYwZGM0MjMxZWJiXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Oath: A Batman Fan Film",
+    "Year": "2022",
+    "imdbID": "tt15460392",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2I2YzE2ZWEtY2M3NS00MmEyLTk5MTYtYjE1MjBlNjU2ZmM4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Brave and the Bold - The Videogame",
+    "Year": "2010",
+    "imdbID": "tt1613073",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGJlODUzNzQtMGY4Ny00ZjU0LThjZGUtMDg5ZTUyMzExYmE2XkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Jesus",
+    "Year": "2017",
+    "imdbID": "tt5070262",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWNhZGQwNDYtNGZkNC00NzkxLTk2MDYtMzZkMTAyZjAwMDQyXkEyXkFqcGdeQXVyMzgwODQ4Nw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Dan Harmon's Batman",
+    "Year": "2002",
+    "imdbID": "tt2887006",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZlZWU4OWMtZTgzOS00NmI3LTg0MTctYzAwMzFjNWRjNDBlXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Two Face's Revenge",
+    "Year": "2013",
+    "imdbID": "tt2322377",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzI2MzU4NDY2OV5BMl5BanBnXkFtZTgwOTA1OTExMjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "DC High Volume: Batman",
+    "Year": "2025",
+    "imdbID": "tt36858401",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWNmZmU5YWUtOWIxMS00YWFhLTk3MzktZTBiODk2NTZmYjI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,380_.jpg"
+  },
+  {
+    "Title": "Batman and Me",
+    "Year": "2020",
+    "imdbID": "tt12736322",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWU5NDUxODgtZjMyMS00NDA5LWI3YzUtMGIyNjY2YTRiOTg2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Begins: Behind the Mask",
+    "Year": "2005",
+    "imdbID": "tt1074939",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5ZmExMDQtMWE0NC00NDA2LWEwNWQtZWJhNjY0MjYwNmY3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and Me: A Devotion to Destiny, the Bob Kane Story",
+    "Year": "2008",
+    "imdbID": "tt1781773",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Owl's Hollow",
+    "Year": "2025",
+    "imdbID": "tt41157268",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjBiZGUyYWYtNjY1MC00ZmIwLTgzOTktYjdkNWQxYjRjYWIyXkEyXkFqcGc@._V1_QL75_UY562_CR157,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman V Arrow",
+    "Year": "2016",
+    "imdbID": "tt5479456",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2UzYzQwNzctMzc2MC00MDk2LTljZjgtMGE3NDdiYmY5MzFiXkEyXkFqcGdeQXVyNDk4MzA4Mjk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: From Jack to the Joker",
+    "Year": "2005",
+    "imdbID": "tt1006834",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzA4ZjZkODYtM2Y4NS00NDBjLWE5NjMtYzg2MzUwYjkzOTFjXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and Robin",
+    "Year": "1964",
+    "imdbID": "tt3959414",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjJmMDdjNTktYzA4OS00MGFkLWE2YTQtNmZlZGEwYTc2YTllXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman, Spider-Man, & Superman Movie",
+    "Year": "2010",
+    "imdbID": "tt5608070",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjJlMWM4YzEtZjVjOC00M2NhLWJkYTItOTk0NWI1MTM0OTE4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unlimited: Animal Instincts, Penguin: High Society Criminal",
+    "Year": "2014",
+    "imdbID": "tt4906622",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmVmOWRhNTYtZjYyNS00ZTU5LTkyNzUtYjZjZmQyMDAwYzdkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman Shootings",
+    "Year": "2012",
+    "imdbID": "tt2327888",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTNkZmE3ZWYtNDc0Ni00MjQwLTlhNWItNWJkZDZhMzRlZGYzXkEyXkFqcGdeQXVyNDMxMTc5OTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Bane After Batman with Chris Kattan",
+    "Year": "2012",
+    "imdbID": "tt2326014",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTE4NzU0NjI1Ml5BMl5BanBnXkFtZTgwOTE2MDY2MDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Designing the Batsuit",
+    "Year": "2005",
+    "imdbID": "tt1006833",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Gay Batman",
+    "Year": "2014",
+    "imdbID": "tt3815998",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3OTA0OTUxOF5BMl5BanBnXkFtZTgwNTc0MzkwMjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Superman Meets Batman",
+    "Year": "2016",
+    "imdbID": "tt5241796",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwZTQ2NGMtYmFkMC00ZWRmLWE2Y2YtOGMyYTcyMzVhNzgzXkEyXkFqcGdeQXVyMjU3NTcwNTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Vs Superman Redub",
+    "Year": "2021",
+    "imdbID": "tt27814934",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ5NTNlNjQtYTYxMi00NTE0LWEzMzQtMmM5NjNkNTVjMjI1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Gotham City Racer",
+    "Year": "2001",
+    "imdbID": "tt0281642",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjk2OGQ0YWYtMTBjNC00NTRiLWIxMDAtZDdiOTgyYjgwNzZiXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Visualizing Gotham - The Production Design of Batman",
+    "Year": "2005",
+    "imdbID": "tt1006835",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Building the Batmobile",
+    "Year": "2005",
+    "imdbID": "tt1006832",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Jokers Team-Up!",
+    "Year": "2011",
+    "imdbID": "tt5608178",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzk4YzY1NTYtN2Q2Ni00MDU0LTg4YzAtNzFlNzMyMzMzYTE0XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Caped Crusader",
+    "Year": "1988",
+    "imdbID": "tt0473297",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Amazing Adventures of Little Batman",
+    "Year": "2007",
+    "imdbID": "tt1191900",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODI0MzgwNzA3MV5BMl5BanBnXkFtZTcwMzc0ODU2MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Legacy Continues",
+    "Year": "2004",
+    "imdbID": "tt1508951",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Heroes: Batman",
+    "Year": "2005",
+    "imdbID": "tt1297266",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Villains: The Joker",
+    "Year": "2005",
+    "imdbID": "tt1297268",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyOTcwNzYtZGM5MS00NzYxLWE3N2MtMjBjZDA4MjY2M2FiXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "How to, Batman!",
+    "Year": "2009\u2013",
+    "imdbID": "tt1852413",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2NTE3NzA4MV5BMl5BanBnXkFtZTcwNjM5ODI3NA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Assembling the Arctic Army",
+    "Year": "2005",
+    "imdbID": "tt1006831",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGMyZTllYzEtMGVhZC00ZTc2LTg1M2EtMmJlMTRhNjNjYTVmXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman & Superman Movie",
+    "Year": "2009",
+    "imdbID": "tt5607974",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDY3NjhiZDItODg1NC00OTAxLThiMjUtNDRkMTkwZjI1NjQ3XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Dante",
+    "Year": "2016",
+    "imdbID": "tt5845956",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjVkODhlNjUtNTY1MC00Yjg0LTkyOTUtZGJlOWQ1Yzg1Y2ZiXkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Sleek, Sexy and Sinister - The Costumes of Batman Returns",
+    "Year": "2005",
+    "imdbID": "tt1006839",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTZhOTUxODUtZWY1MS00ODllLTlmMGYtNjgxMGFmMTVmZDBmXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Bats, Mattes & Dark Nights - The Visual FX of Batman Returns",
+    "Year": "2005",
+    "imdbID": "tt1018682",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Gotham City Revisited - The Production Design of Batman Returns",
+    "Year": "2005",
+    "imdbID": "tt1006836",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Nocturnal Overtures - The Music of Batman",
+    "Year": "2005",
+    "imdbID": "tt1006838",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3YzM4NmEtNzhiZi00ZjQyLWJiOWYtOWI0NWI2Y2IwOWUxXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman Rises",
+    "Year": "2019",
+    "imdbID": "tt10560572",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWUxYjUwMDctOTFhNy00MjgwLTg2MjEtYmFiMWE4MDY5MzdmXkEyXkFqcGdeQXVyMTE5NTU4OTEx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Ninja: Made in Japan",
+    "Year": "2018",
+    "imdbID": "tt10058878",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjJlMmI5YzAtNzY4YS00YzMzLTk0ZDAtMjUwMWU0OTdhYTkzXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman Collection",
+    "Year": "2007\u2013",
+    "imdbID": "tt13834136",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUzNGQ5MzAtNWMwMy00Y2VjLWFjNDEtNzdhYmE3YTFhOGVkXkEyXkFqcGdeQXVyMTM3Njg3Nzc2._V1_SX300.jpg"
+  },
+  {
+    "Title": "Fight! Batman, Fight!",
+    "Year": "1973",
+    "imdbID": "tt1168705",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyYzM3YWYtNGRiYi00MzgxLWJlOWQtYjEyNGU5YWZjODAyXkEyXkFqcGdeQXVyMjQxMDc1NDc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Making Up the Penguin",
+    "Year": "2005",
+    "imdbID": "tt1018687",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Evolution",
+    "Year": "2014",
+    "imdbID": "tt3532246",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "LEGO Batman vs. Superman 2: Dawn of Just Desserts",
+    "Year": "2015",
+    "imdbID": "tt4984898",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODlmNDE4OTQtZGMzOS00Y2U2LWE3MDYtMWVmNDliNGFkNTgxXkEyXkFqcGdeQXVyMTUyMjc4OQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Dressed to Thrill - The Costumes of 'Batman & Robin'",
+    "Year": "2005",
+    "imdbID": "tt1018683",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Inside the Elfman Studio - The Music of Batman Returns",
+    "Year": "2005",
+    "imdbID": "tt1006837",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns Villains: Catwoman",
+    "Year": "2005",
+    "imdbID": "tt1654001",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThjMGZhOTEtNTZiYy00NDE0LTk2NWQtZTZlMjU3ZTVkYmY3XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Gay Batman Forever",
+    "Year": "2015",
+    "imdbID": "tt5905490",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc3NDBiOTctZTlkMi00Y2Y2LTlmNmQtY2MxY2UyYTgyNTIyXkEyXkFqcGdeQXVyMjIyNjc3OTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "OnStar: Batman",
+    "Year": "2000\u20132002",
+    "imdbID": "tt11509646",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzllNTQxYTItOWVmMC00NzVlLWEzMWEtOWI5OWFkMGZjYWVjXkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1989",
+    "imdbID": "tt11568382",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjEwMGJkMDktY2FiZC00MTUzLWEwMjUtNWFkMzQzYWIxMzM0XkEyXkFqcGdeQXVyMDEyNTAwMw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "A First Look at Batman: Under the Red Hood",
+    "Year": "2010",
+    "imdbID": "tt1640102",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Alyas Batman at Robin",
+    "Year": "1965",
+    "imdbID": "tt1228961",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y4Y2UzYTUtYWMwYS00ZDA0LThlMjEtOTkyNjVkYzBiNTI5XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Crimson Cowl",
+    "Year": "2026",
+    "imdbID": "tt41840739",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3MjAwNDEtMjNlOS00ZTU2LWIzYmEtYzhiMzlmMGZkZTA3XkEyXkFqcGc@._V1_QL75_UY562_CR40,0,380,562_.jpg"
+  },
+  {
+    "Title": "Bond V Batman: Age of Vengeance",
+    "Year": "2015",
+    "imdbID": "tt12622400",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmM3YjY2OGUtYTAwMS00YWFiLTk4ZjUtZDEyMDc5MmRjYWYwXkEyXkFqcGdeQXVyNTg4OTQ0NzQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman and Spider-Man Movie",
+    "Year": "2022",
+    "imdbID": "tt11579056",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTY0NTQ3OGEtODMzNi00N2I1LWJlOGYtYjQ2MDQzNzA5NjMxXkEyXkFqcGdeQXVyMTEyMTg5NTYz._V1_SX300.jpg"
+  },
+  {
+    "Title": "Rifftrax: Batman v. Superman",
+    "Year": "2017",
+    "imdbID": "tt10339232",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ0NGU5OGMtMDE3Ni00ZGEzLThkYmEtODA2OWIxZWY1YTU1XkEyXkFqcGdeQXVyNzkwNTk1NDM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Death of Batman",
+    "Year": "2021",
+    "imdbID": "tt14802300",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NjM0NTAtM2RlYy00OWFjLWE2YjYtZGNjOWQxNjgzODliXkEyXkFqcGdeQXVyNDg5NDY5NTA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Freeze Frame - The Visual FX of 'Batman & Robin'",
+    "Year": "2005",
+    "imdbID": "tt1018684",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Legend of Arkham City",
+    "Year": "2012",
+    "imdbID": "tt2495764",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Beyond: Return of the Joker",
+    "Year": "2019",
+    "imdbID": "tt11332628",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2YyMzUzZTctNDlhNi00OWIzLTkxNWItMGM4NjEzNDc2YmYzXkEyXkFqcGdeQXVyMjI2ODkzODY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: Nightwing's Return",
+    "Year": "2010",
+    "imdbID": "tt5608310",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjZjZjZjY2ItOThkYi00ZTNlLTkzNDUtZDcwNjJiNTg2ZWE0XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman v Superman",
+    "Year": "2013",
+    "imdbID": "tt6130880",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: 'Those Wonderful Toys' - The Props & Gadgets of Batman",
+    "Year": "2005",
+    "imdbID": "tt1297267",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Maximum Overdrive - The Vehicles of 'Batman & Robin'",
+    "Year": "2005",
+    "imdbID": "tt1018685",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Beyond: Zero",
+    "Year": "2012",
+    "imdbID": "tt2950250",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmUzZDM5NzEtYzEzOS00ZmQyLTg0NDItMTQzZmZlNDM5NWRlXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Date with Destiny",
+    "Year": "2009",
+    "imdbID": "tt3467120",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMDYzNDc0Nl5BMl5BanBnXkFtZTgwOTUwMzQ1MjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Bond P Batman",
+    "Year": "2016",
+    "imdbID": "tt13428368",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Trinity: Wonder Woman, Superman and Batman",
+    "Year": "2017",
+    "imdbID": "tt7413802",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWJhYjVlNjItZGNiMy00N2Y0LTlkNjEtNDAxYTQzZWU2Mzk3XkEyXkFqcGdeQXVyMjU4MDc0NzY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond Angel of Death",
+    "Year": "2008",
+    "imdbID": "tt3524416",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWIyMjQ2MTUtMGM5Yi00ZWIyLWI3MjUtODU2M2VlNDc4YWI3XkEyXkFqcGdeQXVyMTA5NzI2MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond: Rising Knight",
+    "Year": "2014",
+    "imdbID": "tt5870174",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1OTllYjYtM2NiNi00ZWMxLWI3M2UtZjUzNTUxM2QyMDI5XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Chaos in Gotham",
+    "Year": "2001",
+    "imdbID": "tt0291744",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Heroes: Commissioner Gordon",
+    "Year": "2005",
+    "imdbID": "tt1636735",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns Villains: The Penguin",
+    "Year": "2005",
+    "imdbID": "tt1654003",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Secrets of the Caped Crusader",
+    "Year": "1992",
+    "imdbID": "tt1959343",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGY5YTkzYjgtMjgzNy00Y2QxLThiYjItNmY5MjI0YjAzN2E3XkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and Robin and the Other Super Heroes",
+    "Year": "1989",
+    "imdbID": "tt2181896",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyY2YwMDctZGQ2MS00MmYwLWJlOTctYTdkNmJkNjViYjc2XkEyXkFqcGdeQXVyNDU5NjAxMTg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Hanging with Batman",
+    "Year": "2014",
+    "imdbID": "tt4906600",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWEzZjljMDAtMWJiNS00ZGE2LWE4MjQtY2JkN2Q5NWJlOTg2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond: Forgotten Memories",
+    "Year": "2007",
+    "imdbID": "tt3186140",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyYzRhOTYtZGY1OC00ODNjLWJkNzktYWYzZDUyMzhkYmE5XkEyXkFqcGdeQXVyNDU5Nzc4MTg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond Path of Destruction",
+    "Year": "2006",
+    "imdbID": "tt3564180",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Gay Batman Returns",
+    "Year": "2014",
+    "imdbID": "tt3816018",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmE2OGJjMDAtOTJkMy00YWI3LTgxN2QtNTFlNGFkMDZhNGUyXkEyXkFqcGdeQXVyMjIyNjc3OTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Austerity & Rage",
+    "Year": "2016",
+    "imdbID": "tt5916948",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Knightmare",
+    "Year": "2020",
+    "imdbID": "tt12374438",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ0NTg1MTAtOTIyNi00MjMzLWFlYjktYTc3MWVkODIzZGUxXkEyXkFqcGdeQXVyMTA1NzczNjI4._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Broken Promise",
+    "Year": "2022",
+    "imdbID": "tt29266141",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWY5NGJkZGItZWY0MS00MWM1LTliNjAtZDM4M2Q4NzVmNjc3XkEyXkFqcGdeQXVyNzM3NjUzODU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Terror of Arkham",
+    "Year": "2019",
+    "imdbID": "tt6230896",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTZhMGRhMmEtNGJiZS00NzI0LWI0OWEtM2E3YmQ4MDNjM2RjXkEyXkFqcGdeQXVyMTA1NTk4OTAz._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs. Predator",
+    "Year": "2013",
+    "imdbID": "tt3162198",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Um Conto De Batman: Na Psicose Do Ventr\u00edloquo",
+    "Year": "2014",
+    "imdbID": "tt3470610",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTAyMjgxMTYzMl5BMl5BanBnXkFtZTgwNzY1NDUwMjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "A First Look at Superman/Batman: Apocalypse",
+    "Year": "2010",
+    "imdbID": "tt1706667",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Heroes: Harvey Dent",
+    "Year": "2005",
+    "imdbID": "tt1636736",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns Heroes: Alfred",
+    "Year": "2005",
+    "imdbID": "tt1653999",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Featurette",
+    "Year": "2001",
+    "imdbID": "tt0471583",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGRlYTBmMWItYjVhNS00Mjg2LTk2NDQtNTRmNWUzYjkzMmNkXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Tro, h\u00e5b og Batman",
+    "Year": "2001",
+    "imdbID": "tt0287771",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Year One: A Conversation with DC Comics",
+    "Year": "2011",
+    "imdbID": "tt2098631",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTM0M2JlMjUtNTcyNi00NTkzLWI5MmQtNmY1MDJmZDExMDhlXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Superman/Batman: When Clark Met Bruce",
+    "Year": "2012",
+    "imdbID": "tt2426508",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Shattered Cowl",
+    "Year": "2016",
+    "imdbID": "tt4221290",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2NmZjZiNDItZTRmNC00OWU2LWFiNjYtNTVjMWIwNDA0YTQzXkEyXkFqcGdeQXVyNDYyNjUxNTc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman & Spider-Man Movie",
+    "Year": "2009",
+    "imdbID": "tt5608002",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Lego Batman & Spider-Man Movie 2",
+    "Year": "2009",
+    "imdbID": "tt5608034",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1991",
+    "imdbID": "tt2509372",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman vs. Catwoman",
+    "Year": "2013",
+    "imdbID": "tt3024878",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns Villains: Max Shreck",
+    "Year": "2005",
+    "imdbID": "tt1654002",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "A Test of Minds: The Psychology of Superman and Batman",
+    "Year": "2009",
+    "imdbID": "tt1542990",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Villains: Bob the Goon",
+    "Year": "2005",
+    "imdbID": "tt1630033",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmU3YWE4ZmYtNGYxZi00MmQ2LWI3NDgtZDg1N2UxN2ZiM2IwXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Heroes: Alexander Knox",
+    "Year": "2005",
+    "imdbID": "tt1636734",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2MTM4ZDYtYTgxYS00NzkxLTk0OTAtZWM5OWVmZjNjYWE2XkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "B@ (Batman Parody Film)",
+    "Year": "2016",
+    "imdbID": "tt5875708",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhZjM0NGYtMjgxOC00NTkxLTg1ZTEtMjZhNDhjYjZjMjFlXkEyXkFqcGdeQXVyMjQ5MDAyNzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Forever Heroes: Dr. Chase Meridian",
+    "Year": "2005",
+    "imdbID": "tt5524958",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTdiNDcyYTUtMmYwZC00NDk4LTg5YjgtYzRiODRkMmE3NTRjXkEyXkFqcGdeQXVyMTM5NzI3OTA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Epic dinosaur and Batman fight",
+    "Year": "2023",
+    "imdbID": "tt26353328",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDZmZDViZTItZTU3Yy00NDQ0LTliZTAtNzcxOTY4Zjg2NDlkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Master of Fear",
+    "Year": "2017",
+    "imdbID": "tt6084014",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzJkZjU5ZDItNmEwMi00NGRiLWIyMDAtOTFiOGY0NmY0YTdhXkEyXkFqcGdeQXVyNjkwMTY4MDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman & Santa Team-Up!",
+    "Year": "2012",
+    "imdbID": "tt5660802",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Birth of the Modern Blockbuster",
+    "Year": "2014",
+    "imdbID": "tt4355656",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzE5NDVkYmEtMTM4Mi00MmRiLWIwZjUtZmRmNWI3NGU4ODFlXkEyXkFqcGdeQXVyNDMxMTc5OTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Heroes: Vicki Vale",
+    "Year": "2005",
+    "imdbID": "tt1636737",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Rebuilt",
+    "Year": "2008",
+    "imdbID": "tt1391658",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman & Robin: Pillow Talk",
+    "Year": "2008",
+    "imdbID": "tt1773298",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2ODgwNDgyMF5BMl5BanBnXkFtZTcwMzg0OTAxNA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Line",
+    "Year": "2011",
+    "imdbID": "tt1979188",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk5ZjdjNDYtZTNiMi00OWQ1LWJmZDEtOTJlZGE5YmQzMjFkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Night's End",
+    "Year": "2011",
+    "imdbID": "tt2275537",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDE1ZjM3OWMtODFkZS00MzU3LTgzZWEtMmQ4YWE3NzEzOTI1XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Behind the Mystery",
+    "Year": "2003",
+    "imdbID": "tt1670222",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman vs. Superman Hawaii",
+    "Year": "2016",
+    "imdbID": "tt6051984",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2U1NDhhNzMtM2UyMy00YzBlLWE5YjAtM2IyMDg4N2ZjNTc3XkEyXkFqcGdeQXVyMjMyMTA4MTc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Death of Robin",
+    "Year": "2019",
+    "imdbID": "tt11347762",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjgwMjVmNmYtNDhkOC00ZmY5LWE3YTQtYzViYmEyYTU2NmYwXkEyXkFqcGdeQXVyMTA1NzczNjI4._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman: Bane is Enter",
+    "Year": "2022",
+    "imdbID": "tt32098126",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjM4NmRiMzctMDdhMi00ZTgwLTk0ZjItZDBhNWYyNTIxZjRjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Star Wars, Batman and Indiana Jones Movie",
+    "Year": "2009",
+    "imdbID": "tt6077590",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Adventures of Batman & Robin Activity Center",
+    "Year": "1996",
+    "imdbID": "tt6358804",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTNmMTlhMWYtOTE3My00YjRjLWE1MzgtZGJhZTZkNTJiNGIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQ1NjE0NTk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Abridgimated One-Shot",
+    "Year": "2011",
+    "imdbID": "tt1971329",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Dark Flight",
+    "Year": "2015",
+    "imdbID": "tt5014758",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzYzkyYzEtYTUyYy00NGM0LWEzZGMtNzg4Y2QxZWM2YWQ3XkEyXkFqcGdeQXVyMDQzODc1OA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Retired",
+    "Year": "2012",
+    "imdbID": "tt2483560",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Crusader",
+    "Year": "2014",
+    "imdbID": "tt3848506",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWUxNDYzYTItMGUzZS00ZjgyLWFhYjctZjYwNjM5NjI2ODY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Bloody Valentine",
+    "Year": "2015",
+    "imdbID": "tt4459324",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjNkMTRhMGMtNTVkMS00MDdiLTg2MTctNTMyZjA0ZmI5YzRmXkEyXkFqcGdeQXVyMTAwNDM3OA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs Superman: Artist Shahla Yma - Fangirls DOTRT",
+    "Year": "2013",
+    "imdbID": "tt4999368",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Untold",
+    "Year": "2010",
+    "imdbID": "tt4724924",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjRiZDM0NzAtYzg1Yy00ZWM3LThmYmQtNzA2MTVlMzk3MzNkXkEyXkFqcGdeQXVyMjI2MTgxNDU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman at the Checkpoint",
+    "Year": "2012",
+    "imdbID": "tt2241031",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5YzJkYzktY2Y2Ny00Y2NmLTkyZjUtMjAyY2MzMTE2Y2Y1XkEyXkFqcGdeQXVyODc1NjA2NA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Returns Heroes: Batman",
+    "Year": "2005",
+    "imdbID": "tt1654000",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "I Hate Living with You, Batman",
+    "Year": "2003",
+    "imdbID": "tt0492886",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman Retires",
+    "Year": "2017",
+    "imdbID": "tt6854152",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Worst Batman Fanfilm Ever... Period",
+    "Year": "2016",
+    "imdbID": "tt10461340",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "One Brick at a Time: Making the Lego Batman Movie",
+    "Year": "2017",
+    "imdbID": "tt7504700",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ2NTY2NmEtOTcxMi00YjE5LTgyYjgtYzAzZmZiN2YwYjY2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Thomas/Batman",
+    "Year": "2020",
+    "imdbID": "tt13062420",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDVhMTZkNjMtMTY4ZS00MzJmLTk2NWItZDljY2Y1Mzk2OThmXkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Why Batman Can't to Laugh?",
+    "Year": "2023",
+    "imdbID": "tt31973405",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDMyMzA5OGQtNzY1Ny00OGNjLTg4NmYtMmEyNTVjMTZlOThiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman",
+    "Year": "1986",
+    "imdbID": "tt11171552",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDA2NWMtYWQ0Yy00MTBjLTlmZDItYTQyMzc5NDcyNjlmXkEyXkFqcGdeQXVyMTcwNDU4MzU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Begins: Reflections on Writing",
+    "Year": "2005",
+    "imdbID": "tt6010256",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y2N2EzM2YtZjdhNC00MTYwLWJiNDgtMDVlZDZjMDRlMDY1XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Forever Villains: The Riddler",
+    "Year": "2005",
+    "imdbID": "tt5524962",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Making of 'Batman: Dead End'",
+    "Year": "2003",
+    "imdbID": "tt5457384",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Holy Memorabilia Batman!",
+    "Year": "2014",
+    "imdbID": "tt4245626",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTUyNmZkNmMtYWJlZC00YjFkLWJlZmUtODg4M2UzODkyOTY1XkEyXkFqcGdeQXVyNjUzNjY0NTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Face to Face",
+    "Year": "2013",
+    "imdbID": "tt3442188",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever Heroes: Robin",
+    "Year": "2005",
+    "imdbID": "tt5524956",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Death of Batman",
+    "Year": "2016",
+    "imdbID": "tt5867428",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjMxYTUwODQtMzczMi00MmFlLTlkMmEtNjZlY2FkZmI3NDdhXkEyXkFqcGdeQXVyMzAyNjQ5NzY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Two Faces Are Better Than One",
+    "Year": "2006",
+    "imdbID": "tt4733750",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Arkham Underworld",
+    "Year": "2016",
+    "imdbID": "tt5913906",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjJjNTVhNDEtMzI0Ny00NDBjLTg1MWQtZjJlYTZjZGNlNmYxXkEyXkFqcGdeQXVyNTk5Nzg0MDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Patient Zero",
+    "Year": "2016",
+    "imdbID": "tt6212746",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTVkZjAxODItMWZiZS00ZDZiLTkxMTYtMDc1MjM0ZGQ0YmQwXkEyXkFqcGdeQXVyNTQ4MzA4NDQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman: Bad Joke",
+    "Year": "2019",
+    "imdbID": "tt9447688",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmMwNzk2ZjktZjA5OS00ZmQ0LWI5OWItNzMyMDA2ZTMzZDQ0XkEyXkFqcGdeQXVyOTY0ODI4MDA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Arkham Origins: Cold, Cold Heart",
+    "Year": "2014",
+    "imdbID": "tt8883642",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWE5ZmQxMzMtYzAxNC00NzU2LWIwYzktMmZiMGU1OWFkYmRjXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and the Pizza Time part 1",
+    "Year": "2017",
+    "imdbID": "tt7959470",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGM1NTdiZjEtMjU3NS00Mjk0LWI4NTctNmU3ODFmY2RhNzVlXkEyXkFqcGdeQXVyODQ3NTg5ODc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Begins Stunts",
+    "Year": "2005",
+    "imdbID": "tt6010270",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman Returns",
+    "Year": "2017",
+    "imdbID": "tt6854176",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Hangover",
+    "Year": "2013",
+    "imdbID": "tt3060324",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2012",
+    "imdbID": "tt2757542",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "GTTV Presents Batman: Arkham Asylum Launched!",
+    "Year": "2009",
+    "imdbID": "tt1509122",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Dark Truth",
+    "Year": "2011",
+    "imdbID": "tt2340262",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwMzc5OTQ3OV5BMl5BanBnXkFtZTgwMTczNTA3NzE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Heart of Vengeance: Returning Batman to His Roots",
+    "Year": "2011",
+    "imdbID": "tt2098701",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman vs Batman",
+    "Year": "2012",
+    "imdbID": "tt2338396",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Guarding the Balance: Batman and the JLA",
+    "Year": "2012",
+    "imdbID": "tt2279003",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmEwNjhhZWUtMTI0MC00NDlhLTgxYTAtNjkyYTMxZmQzNDk1XkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Fire Rises",
+    "Year": "2013",
+    "imdbID": "tt2815320",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Vendetta",
+    "Year": "2012",
+    "imdbID": "tt2455550",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODU0NjQ3MGEtMDQ4Ny00ZmZiLWFlYWUtMWYwZDgzNTFjOTkwXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Out of the Shadows - The Production Design of 'Batman Forever'",
+    "Year": "2005",
+    "imdbID": "tt5186788",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: The Many Faces of Gotham City",
+    "Year": "2005",
+    "imdbID": "tt5186838",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman & Robin Villains: Mr. Freeze",
+    "Year": "2005",
+    "imdbID": "tt5524988",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Arkham City - Inside Rocksteady",
+    "Year": "2012",
+    "imdbID": "tt30406767",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTNhNGY0YjAtNTIyNy00YmY4LWIwNDYtZTBlMDFlMjVlMzA5XkEyXkFqcGc@._V1_QL75_UY562_CR308,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman: Gotham by Gaslight - Fan Film",
+    "Year": "2024",
+    "imdbID": "tt33812159",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGExOWE3NjQtYmNiZC00YjgxLWIyMjEtMTI5ODQyNGQyMTdlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Digital Batman",
+    "Year": "2005",
+    "imdbID": "tt6010262",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "What If Tommy Wiseau Directed Batman?",
+    "Year": "2014",
+    "imdbID": "tt6670090",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjZjOGQyMjEtMDUzMS00ZTNkLWJhY2UtODRhY2Q2NWU1ODNjXkEyXkFqcGdeQXVyNjc1NDY3NzU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin Villains: Poison Ivy",
+    "Year": "2005",
+    "imdbID": "tt5524990",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever Villains: Two-Face",
+    "Year": "2005",
+    "imdbID": "tt5524966",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Knight Moves - The Stunts of 'Batman Forever'",
+    "Year": "2005",
+    "imdbID": "tt5186872",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Delivrance",
+    "Year": "2011",
+    "imdbID": "tt2546522",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTNlMjAxYzAtODk0Zi00M2FjLTk3MDItZTFkODNlZmRmNTY4XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Crossing Over: Batman Meets Dexter",
+    "Year": "2015",
+    "imdbID": "tt3486834",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTlmYmFlMTUtNWVlNS00YTJhLTkxMDctZTI3ZWMwNWQyMmIzXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Creep Crusader",
+    "Year": "2013",
+    "imdbID": "tt3645538",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman the Brave and the Bold: Showtime!",
+    "Year": "2024",
+    "imdbID": "tt32044571",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGJjN2NjZTYtMmJjMC00ZTYzLWE3NzAtMzAyNjhiZDcyOWUzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Beyond Batman: Bigger, Bolder, Brighter - The Production Design of 'Batman & Robin'",
+    "Year": "2005",
+    "imdbID": "tt5186618",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Beyond: The Lost Fan Film",
+    "Year": "2006",
+    "imdbID": "tt4807930",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman & Robin Heroes: Batman",
+    "Year": "2005",
+    "imdbID": "tt5524972",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman by Your Side",
+    "Year": "2005",
+    "imdbID": "tt0489936",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman",
+    "Year": "2013",
+    "imdbID": "tt6949852",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTc2N2E5YjktZGExNy00MTJmLWJiMWUtYjZlZjA5MTQ0MDg3XkEyXkFqcGdeQXVyMjQxNzM0MjI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman v. Superman: A Parody of Justice",
+    "Year": "2017",
+    "imdbID": "tt7370494",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever",
+    "Year": "1995",
+    "imdbID": "tt11808894",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjdkNTFiZTQtY2I5YS00ZWI4LWFiZTgtZjk4MzViNjQ2ZGJhXkEyXkFqcGdeQXVyNjMxMTE2Mjg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Gordon: A Batman Fan Film",
+    "Year": "2023",
+    "imdbID": "tt30275071",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmI2MjBiYjUtZTJlNS00NmZkLTk3MzgtZDE4NTljNGM4ZmQ5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: First Night",
+    "Year": "2023",
+    "imdbID": "tt27590074",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmEyYjEzZGItZTZmNS00Y2I4LTkyYzAtMGY2YzQwOTYwZjNhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Hell Yeah Batman",
+    "Year": "2015",
+    "imdbID": "tt12948188",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Steve Woodier Jr's Batman: The Movie",
+    "Year": "2019",
+    "imdbID": "tt10356286",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWNiZTI2ZTQtNWIxZC00YjIwLWIxY2ItZmI1ZGQ2MzZlOWFjXkEyXkFqcGdeQXVyMjA4NTU2NTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "View-Master Batman Animated VR",
+    "Year": "2016",
+    "imdbID": "tt9811400",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Partners in Peril",
+    "Year": "1996",
+    "imdbID": "tt1064722",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman & Robin Heroes: Robin",
+    "Year": "2005",
+    "imdbID": "tt5524976",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman & Robin Heroes: Batgirl",
+    "Year": "2005",
+    "imdbID": "tt5524986",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman & Robin Villains: Bane",
+    "Year": "2005",
+    "imdbID": "tt5524996",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman vs. Superman: Spoof",
+    "Year": "2016",
+    "imdbID": "tt5602908",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman Files",
+    "Year": "2012\u2013",
+    "imdbID": "tt2409658",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Monsters",
+    "Year": "2012",
+    "imdbID": "tt2495274",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman 20 Years On",
+    "Year": "2009",
+    "imdbID": "tt2483270",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Mini-Figure",
+    "Year": "2014",
+    "imdbID": "tt3508120",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "An Interview with Batman",
+    "Year": "2014",
+    "imdbID": "tt3521274",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ2ODViMWItYWQyMS00N2MwLTg5NWEtYzgyOThjMTg5MjVhXkEyXkFqcGdeQXVyNzU4MjAyMTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Iron Man vs Batman",
+    "Year": "2010",
+    "imdbID": "tt3426078",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman Auditions",
+    "Year": "2014",
+    "imdbID": "tt3428056",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Chicano Batman en el Retrovisor",
+    "Year": "2013",
+    "imdbID": "tt3377958",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Puzzle Master",
+    "Year": "2015",
+    "imdbID": "tt3679964",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Infinite",
+    "Year": "2016",
+    "imdbID": "tt3727758",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Sassy Batman",
+    "Year": "2014\u2013",
+    "imdbID": "tt3752894",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Retires",
+    "Year": "2014",
+    "imdbID": "tt3955964",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Battle for the Cowl",
+    "Year": "2015",
+    "imdbID": "tt3760436",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman: Season 3 Unmasked",
+    "Year": "2007",
+    "imdbID": "tt3769348",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDg5MzMyMl5BMl5BanBnXkFtZTcwNDQwMDI0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Untitled Batman Spin-off Series",
+    "Year": "2017\u2013",
+    "imdbID": "tt3773050",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MjczNTU1NV5BMl5BanBnXkFtZTgwNjEzNTQ3NzE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman: Season 4 Unmasked",
+    "Year": "2007",
+    "imdbID": "tt3780852",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MDY5MDg0M15BMl5BanBnXkFtZTcwNTU2NzE1MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Original Batman",
+    "Year": "2014\u2013",
+    "imdbID": "tt4267552",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman and Jimbo",
+    "Year": "2015",
+    "imdbID": "tt4295146",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman is a Vampire",
+    "Year": "2014",
+    "imdbID": "tt3960410",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTkzYjRlMzktYmVlMC00OGY1LTg1MTEtNjE0YWY2YzQ5YWI1XkEyXkFqcGdeQXVyNDk1MTQ1Mg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Indecisive Batman",
+    "Year": "2014",
+    "imdbID": "tt4078622",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: A Face a Laugh and a Crow",
+    "Year": "2006",
+    "imdbID": "tt4105288",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Bizim Batman",
+    "Year": "2015",
+    "imdbID": "tt4105670",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Final Battle",
+    "Year": "2008",
+    "imdbID": "tt4109740",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5YWMyMzEtMTJiMC00MWQ5LTgyNjctNWM1ZmVlMDJiNDFiXkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Evolution of Batman in Cinema",
+    "Year": "2015",
+    "imdbID": "tt4465212",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Retribution",
+    "Year": "2014",
+    "imdbID": "tt4531936",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY0NWMxOGQtZjRjYy00NDUyLTk4NWYtNTQ1MjA1NDY1YTc4XkEyXkFqcGdeQXVyMzUwMDIzMDQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Holy Board Meeting Batman!",
+    "Year": "2014",
+    "imdbID": "tt4614012",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Reboots",
+    "Year": "2010",
+    "imdbID": "tt4653674",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Arkham City Lockdown",
+    "Year": "2011",
+    "imdbID": "tt4671780",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Hidden Affairs",
+    "Year": "2015",
+    "imdbID": "tt4338228",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever Heroes: Batman",
+    "Year": "2005",
+    "imdbID": "tt5524936",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Henry Cavill Asks Kids: Batman or Superman?",
+    "Year": "2016",
+    "imdbID": "tt5536192",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Jesse Eisenberg Asks Fans: Batman or Superman?",
+    "Year": "2016",
+    "imdbID": "tt5536258",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Goes to School",
+    "Year": "2015",
+    "imdbID": "tt5582988",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmM5YThkMmMtY2ZjYS00YjhlLTg2ZWItYTRlNGE4ZDJkNDE3XkEyXkFqcGdeQXVyNjAwOTY3ODg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond",
+    "Year": "2013",
+    "imdbID": "tt5870152",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmNmNTQtNjc1NS00Yzk3LWJkMDItZmY0ZjJiZTRmMmY0XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Darkest Night",
+    "Year": "2018\u2013",
+    "imdbID": "tt5893252",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmY1MDA1MWQtOGE4MS00N2FkLThjZjYtMGUwYTllNWE2ZDBmXkEyXkFqcGdeQXVyNjMxNDI4OTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham VR",
+    "Year": "2016",
+    "imdbID": "tt5808316",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman",
+    "Year": "2016",
+    "imdbID": "tt5807064",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Unveiled",
+    "Year": "2018",
+    "imdbID": "tt5718528",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyYTg4MjQtYmU4Ny00ZmZmLWJkMjktNzljYTVhOTkxMGE3XkEyXkFqcGdeQXVyNjUzNDk2Mzk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Return to Arkham",
+    "Year": "2016",
+    "imdbID": "tt5734258",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmNWM0NjgtODc1OC00OTViLWE0N2EtOTIyNjc2MTdhYTE2XkEyXkFqcGdeQXVyNjUzNDk2Mzk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Where is he Now?",
+    "Year": "2016",
+    "imdbID": "tt5754504",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Riddler Returns",
+    "Year": "2010",
+    "imdbID": "tt5608302",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Adventures of Batman & Robin Cartoon Maker",
+    "Year": "1995",
+    "imdbID": "tt4837054",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Moody Batman",
+    "Year": "2015",
+    "imdbID": "tt4837128",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Building Batman",
+    "Year": "2013",
+    "imdbID": "tt4905852",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Comment embrasser une fille avec trois questions? Batman dating tips",
+    "Year": "2015",
+    "imdbID": "tt4773104",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Cape & Cowl",
+    "Year": "2014\u2013",
+    "imdbID": "tt4774188",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Beyond: Night of the Pickpocket",
+    "Year": "2010",
+    "imdbID": "tt4778252",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0ZWVmZGQtZTZjNS00N2JhLTk2MWUtOTMyNmNmOTk0MDgyXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "[Bootleg] Batman: Vickie Valle",
+    "Year": "2014",
+    "imdbID": "tt4365206",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MTk4MDY2Nl5BMl5BanBnXkFtZTgwMzg4NjE2NDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dark Knight Beyond",
+    "Year": "2016",
+    "imdbID": "tt4430982",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Frozen Freaks and Femme Fatales - The Makeup of 'Batman & Robin'",
+    "Year": "2005",
+    "imdbID": "tt5186650",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Adventures of Batman & Robin",
+    "Year": "1995",
+    "imdbID": "tt5024506",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Imaging Forever: The Visual Effects of 'Batman Forever'",
+    "Year": "2005",
+    "imdbID": "tt5186892",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Beyond Batman: Scoring Forever - The Music of 'Batman Forever'",
+    "Year": "2005",
+    "imdbID": "tt5186904",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman vs. Robin: Talon of the Owls",
+    "Year": "2015",
+    "imdbID": "tt4906656",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Na Na Na Batman",
+    "Year": "2014",
+    "imdbID": "tt4906756",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Fallen Son",
+    "Year": "2015",
+    "imdbID": "tt4969362",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Personal Issues",
+    "Year": "2015",
+    "imdbID": "tt4972406",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTliZjM3ZTktZmYxMC00NmZiLTlmNjItZTQwNTU4MzlmNTUzXkEyXkFqcGdeQXVyNzM1MDY2OTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Skyfest 2015: Batman vs Superman",
+    "Year": "2016",
+    "imdbID": "tt4976276",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5ODEyMjEzMl5BMl5BanBnXkFtZTgwNzc4MDA3NzE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Hunt for Red Hood",
+    "Year": "2016\u2013",
+    "imdbID": "tt4976342",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Beyond: The Beginning",
+    "Year": "2017",
+    "imdbID": "tt4983524",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Chaos in Gotham City",
+    "Year": "2012",
+    "imdbID": "tt2340280",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns: Rob Burman on Mold Making and Costumes",
+    "Year": "2012",
+    "imdbID": "tt2186524",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkOTU4NmEtNTM5ZC00ZTRlLWJmNjItNjY3NzY0MmJjNzM5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Enemy Within",
+    "Year": "1995",
+    "imdbID": "tt2099561",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Consquences",
+    "Year": "2011",
+    "imdbID": "tt2112111",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Consequences: Ending with the Premiere",
+    "Year": "2011",
+    "imdbID": "tt2139635",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman- Out of Character",
+    "Year": "2011",
+    "imdbID": "tt2154366",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Tomorrow Knight: Batman Reborn",
+    "Year": "2010",
+    "imdbID": "tt1871421",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Goldentusk's Batman Theme Song",
+    "Year": "2007",
+    "imdbID": "tt1813157",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDBmZWUtMzExYy00MDFkLTk4MjMtMTQxZjgxZDc0N2Q1XkEyXkFqcGdeQXVyMzEzMzc3NA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman of Suburbia",
+    "Year": "2010",
+    "imdbID": "tt1842319",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "El d\u00eda que conoc\u00ed a Batman",
+    "Year": "2009",
+    "imdbID": "tt1635444",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Hell On Earth",
+    "Year": "2019\u2013",
+    "imdbID": "tt9827220",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Cowabunga, Batman! When Comic Worlds Collide",
+    "Year": "2019",
+    "imdbID": "tt10020908",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Gotham Pizza",
+    "Year": "2019",
+    "imdbID": "tt9740168",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI4ZGU5Y2MtZWI1Ni00NjBmLTlmZjMtNDQ1ZDhkNjFjNjBiXkEyXkFqcGdeQXVyODY2NDY0NTU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman Movie 2",
+    "Year": "2022",
+    "imdbID": "tt9673190",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q5Yjk4OWQtYjJiYy00NDIwLWFmNTYtNzc3NDE1MWU4NzMxXkEyXkFqcGdeQXVyNzI0NDk4OTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: The Ridiculous Cape",
+    "Year": "2010",
+    "imdbID": "tt10567834",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Requiem for a Bat",
+    "Year": "2019",
+    "imdbID": "tt10666638",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzk2NGE5NDQtNmJjMi00Zjk1LTk1OGUtOGUyMzNjZmEzMDg0XkEyXkFqcGdeQXVyMTA0MzYxODEx._V1_SX300.jpg"
+  },
+  {
+    "Title": "East/West Batman",
+    "Year": "2018",
+    "imdbID": "tt10695666",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman vs Captain America",
+    "Year": "2020",
+    "imdbID": "tt10726286",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzM1OWRiNTItY2E2Mi00NGQ5LTgyYzItOTY5MWRlMzBlYWQ5XkEyXkFqcGdeQXVyNjY1ODQxNjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Realistic Batman Villains",
+    "Year": "2011",
+    "imdbID": "tt10836460",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "A Batman Voice Video",
+    "Year": "2012",
+    "imdbID": "tt10857182",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lonely Batman",
+    "Year": "2019",
+    "imdbID": "tt10872990",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZThmNjIwMWItZDEzOS00YThlLWJiY2MtYjg1OGE3OTBiMDJiXkEyXkFqcGdeQXVyNjM0MDQ4OTQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin: To the Fest",
+    "Year": "2019",
+    "imdbID": "tt10924754",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDY3ZWNmOTktZDkwMi00MDRjLTgyYzQtODQ1ZjA2ODUyMGM2XkEyXkFqcGdeQXVyNjQzMjAwMjg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Pixel Batman: Enter The Phantom Zone",
+    "Year": "2021",
+    "imdbID": "tt10938042",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDVjZDQwN2QtZjA4MC00YjZhLWE1ZmQtMjg5YzgwMDFiYzk1XkEyXkFqcGdeQXVyODg2NDM5MTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "BATMAN: TOTAL WAR",
+    "Year": "2019",
+    "imdbID": "tt11032372",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzRmZTgyY2MtZWQ0Ni00ZDU1LWFiMGMtODcyN2RlYzk2NDA1XkEyXkFqcGdeQXVyNDgxMDEzNQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Parody",
+    "Year": "2015",
+    "imdbID": "tt8059124",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman Triumphant",
+    "Year": "2017",
+    "imdbID": "tt8111010",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Beginning",
+    "Year": "2018",
+    "imdbID": "tt8409234",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTMzM2IxMDgtMTViZC00M2Y3LThmMjUtMTExYWVhOTE5ZDAzXkEyXkFqcGdeQXVyNzk5OTM5ODg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Deconstructing Andy Warhol's Batman/Dracula",
+    "Year": "2018",
+    "imdbID": "tt8422210",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2009",
+    "imdbID": "tt8449144",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Deconstructing Boaz Yakin's Batman Beyond",
+    "Year": "2018",
+    "imdbID": "tt8452560",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Ask Batman",
+    "Year": "2018",
+    "imdbID": "tt8594296",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWMzMDllZjUtYmY1Yy00OGE1LTlkYjctOTEyNzBkZDlkMzBkXkEyXkFqcGdeQXVyMzMzODExODA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "That's Batman",
+    "Year": "2018",
+    "imdbID": "tt9014912",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjBjZDAwMWMtYzY1ZC00YTBlLWEyZGEtZmYyMzAzOTI0MjQ1XkEyXkFqcGdeQXVyMTA1MjQ2MDA4._V1_SX300.jpg"
+  },
+  {
+    "Title": "Crane (Batman - DC universe Fan Film)",
+    "Year": "2016",
+    "imdbID": "tt9203430",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjVlMmFlNDItMzEwYi00YzkxLWFlNzktMzE0YTY1ZmQwOTBkXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman Minecraft Series",
+    "Year": "2019\u2013",
+    "imdbID": "tt9446358",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Rebrick Contest Winners",
+    "Year": "2017",
+    "imdbID": "tt7505020",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDFjMTA1MWQtZDE0ZC00MDVmLWI4YzMtNGMzYTQwN2FmNTIwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dark Knight",
+    "Year": "2018",
+    "imdbID": "tt8841990",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU3OGY1NTEtNWFhNy00YjhhLTk5NGQtY2Q5NGNmMDE0OTFlXkEyXkFqcGdeQXVyODc5OTgyODQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Joker Escapes!",
+    "Year": "2018",
+    "imdbID": "tt8876038",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNjZjE3NTQtOGJiNy00YWZiLTg0YmUtMTYzY2ZjOGE4ZmVkXkEyXkFqcGdeQXVyODMyMjU2NzQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Dark City",
+    "Year": "2019",
+    "imdbID": "tt10152756",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWQ5NWUyZDYtMjhkZC00MjM0LTllOTYtMzBmNGQ3OGFhYzc0XkEyXkFqcGdeQXVyNzk5OTM5ODg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Missions",
+    "Year": "2018",
+    "imdbID": "tt11235952",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDExZmM3NTYtY2MzMS00ZDUzLTk1NDEtNTcxNWRhOTUwNDE1XkEyXkFqcGdeQXVyNDU0OTA0ODI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2020",
+    "imdbID": "tt11373302",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Spectre Studios' Batman",
+    "Year": "2019",
+    "imdbID": "tt11398626",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2U0OTYyOGMtNjVhMC00OGMxLTgzNDEtYmIzOTdhYjY4MDk4XkEyXkFqcGdeQXVyMTEwODA3OTI2._V1_SX300.jpg"
+  },
+  {
+    "Title": "Happy Birthday, Batman!",
+    "Year": "2019",
+    "imdbID": "tt11424968",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTI1MmEzOTgtNGIyNi00ODExLTk1MzItZGFkNjI0NGIyYTFhXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: One Final Joke",
+    "Year": "2020",
+    "imdbID": "tt11428012",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDE4MjFmMjEtYzc4NS00ZGVjLTk4NTEtYTI1YTZkYjg0MzUxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Alley",
+    "Year": "2018",
+    "imdbID": "tt11469356",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Terrible Batman Begins Remake",
+    "Year": "2007",
+    "imdbID": "tt11723578",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2016",
+    "imdbID": "tt11889258",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Dawn of Fear",
+    "Year": "2021",
+    "imdbID": "tt11937652",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmUyY2NkMTQtNTk0ZS00ZjA4LWJlOWMtMGNmYWI5NzE3YzQxXkEyXkFqcGdeQXVyMTA0MzYxODEx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Most Wanted",
+    "Year": "2020",
+    "imdbID": "tt12059074",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3ZGIwYjQtYTE1My00MGRiLWJlMGItMDc2NDhkZDEyMTQyXkEyXkFqcGdeQXVyMTE1NTM5MTIy._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman v Superman: Animated",
+    "Year": "2015",
+    "imdbID": "tt12190482",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman - 80 Years of the Dark Knight (DCAU)",
+    "Year": "2019",
+    "imdbID": "tt12190566",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman",
+    "Year": "2020",
+    "imdbID": "tt12214724",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjg2MzVhZDgtYjZiMi00NmM0LTlkYTgtYmFhODkyM2Y4ODFlXkEyXkFqcGdeQXVyMzI5NDExMTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman, the Punchline",
+    "Year": "2018",
+    "imdbID": "tt12307390",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTM3ZjBjYWMtZWVmYi00MTM2LTg3Y2QtNWMyMDk0YTQxYjY1XkEyXkFqcGdeQXVyNjkyNjg2MjI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "LEGO Batman: Crime War",
+    "Year": "2018",
+    "imdbID": "tt12669842",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Untitled Batman/HBO Max Project",
+    "Year": "2022\u2013",
+    "imdbID": "tt12687642",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Riddle Me This",
+    "Year": "2022",
+    "imdbID": "tt12699124",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWM0Y2QyMTAtNTNiYS00NzZjLWIyYzgtYzU0YWZkNjBkODc4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "LEGO Dark Knights: The Batman who Laughs",
+    "Year": "2020\u2013",
+    "imdbID": "tt12702866",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "What if Batman",
+    "Year": "2020",
+    "imdbID": "tt12707030",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzE0NDlmYjktMWJhOS00YTBhLWJiZDktMTFkMjg1NTgxMWIxXkEyXkFqcGdeQXVyNzAwOTIwNTI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin Forever",
+    "Year": "2020",
+    "imdbID": "tt12809960",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzkzYjBjMzktNDFmNC00NTE3LWE1MzMtNmEyZTI1MjFjOGMwXkEyXkFqcGdeQXVyMjQ1NzY3MjQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: A Beautiful Lie",
+    "Year": "2022",
+    "imdbID": "tt12815434",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTZmZTAxZDctN2FhOC00ZWFjLThiYjMtMTBiNDg4Y2NmYzQ4XkEyXkFqcGdeQXVyMTIwMTEzNjQ2._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Dawn of the Knight",
+    "Year": "2021",
+    "imdbID": "tt12860898",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman v Superman: Dawn of Breakfast",
+    "Year": "2016",
+    "imdbID": "tt6654350",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Me & My Minifig - Michael Cera",
+    "Year": "2017",
+    "imdbID": "tt7504298",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjczY2E3OGUtZjFiYi00ZjI3LThkOTctZjQ1Yjc3ZWZhM2VmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: Me & My Minifig - Rosario Dawson",
+    "Year": "2017",
+    "imdbID": "tt7504366",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDU0MGYxMTYtYWNlMi00YjE2LTg2NmUtMDMxY2VlZDhhZmIwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: Me and My Minifig - Will Arnett",
+    "Year": "2017",
+    "imdbID": "tt7504488",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZGVlY2MtNDNmYy00YzU1LThiNGYtZDNiNDVlYzI4MTA4XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman V Superman: League at War",
+    "Year": "2018",
+    "imdbID": "tt7596414",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Arkham City Vol. 2",
+    "Year": "2017",
+    "imdbID": "tt7607366",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Naked Babes of Batman",
+    "Year": "2016",
+    "imdbID": "tt7668496",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Arkham City Vol. 3",
+    "Year": "2017",
+    "imdbID": "tt7697464",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The White Knight",
+    "Year": "2020",
+    "imdbID": "tt7709716",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQwNjhjNmItZjgyYy00NmJmLWE5ZTgtNDkxYTM4ODg3MWFlXkEyXkFqcGdeQXVyNzEwOTAyMzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Purple and Green (Batman Fan Film)",
+    "Year": "2018",
+    "imdbID": "tt7820338",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDlhNjI3MmYtZDRiNS00MTZmLWE4NTAtYjg0MjEwYmFhZDdmXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Year One",
+    "Year": "2019",
+    "imdbID": "tt7829938",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTMzNzAxOTAtZTFmOS00NWQ5LWI2MzQtODQwZjc1NzcwM2ZmXkEyXkFqcGdeQXVyNzEwOTAyMzc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond",
+    "Year": "2018",
+    "imdbID": "tt7899164",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxN2MyYWEtYmRlMC00ZTY4LTliYzktZDlmMTg3ZTIyNjg3XkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman the Dawn of the Knight",
+    "Year": "2017",
+    "imdbID": "tt7058516",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGViZTg3NzMtOGYzMC00YTk4LTkwY2ItOWU3MjBiNGJiZjIzXkEyXkFqcGdeQXVyNjgyMjM1NTc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman the Rise of Red Hood",
+    "Year": "2018",
+    "imdbID": "tt7076968",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Puppets vs. People: Batman vs. the Homeless",
+    "Year": "2017",
+    "imdbID": "tt7099058",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmI1ZGVmMjktN2U3Zi00NmFmLWI5YmEtNTlmYzcwODJmNzhlXkEyXkFqcGdeQXVyNzgyNDUxNDg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Silly Batman: Episode 1, Everything is Awesome!",
+    "Year": "2015",
+    "imdbID": "tt7129628",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Thomas & Friends: DC Super Friends San Diego Comic Con Ft. Thomas as Superman & Diesel as Batman",
+    "Year": "2016",
+    "imdbID": "tt7150484",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2NmQxMjYtZWI1Mi00MTgxLTk1ODYtZWM3ODQzZTI3YzE1XkEyXkFqcGdeQXVyMjIzMTU3Mjk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman (Animated MC Series)",
+    "Year": "2018\u2013",
+    "imdbID": "tt7298666",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Office Batman",
+    "Year": "2017",
+    "imdbID": "tt7322206",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y2MTk2NTMtMjEyOC00Yjg1LThjODUtMWUxMWNlMDNkMzI2XkEyXkFqcGdeQXVyODAwMDI4OTQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Son of Gotham",
+    "Year": "2017",
+    "imdbID": "tt6880312",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5Yjk3MDItZTJiZC00ODQzLTlkMGEtYmExNmYwYTU1ZTllXkEyXkFqcGdeQXVyMzQxNTk5OTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "B@: It's a Wonderful Life, Batman!",
+    "Year": "2016",
+    "imdbID": "tt6359334",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzRkNzk1M2MtZjdlMi00Y2EyLThiODUtMzBiYTYwZmQ3MDljXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs. Superman: The Clones of Justice",
+    "Year": "2015",
+    "imdbID": "tt6365452",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Adis Games: Batman Arkham/Return to Arkham",
+    "Year": "2016\u2013",
+    "imdbID": "tt6446098",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Bloody Batman",
+    "Year": "2015",
+    "imdbID": "tt6549894",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Is Awesome",
+    "Year": "2015",
+    "imdbID": "tt6550050",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Hot Wheels All Access: Batman v. Superman",
+    "Year": "2016",
+    "imdbID": "tt6684296",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns",
+    "Year": "1993",
+    "imdbID": "tt6710462",
+    "Type": "game",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Return of the Joker",
+    "Year": "1991",
+    "imdbID": "tt6722782",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTcwYzgtZjhhNS00Y2JlLTk5NGEtMTUyNzA1M2MxYWE1XkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: Origins Vol. 1",
+    "Year": "2016",
+    "imdbID": "tt6727988",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Origins Vol. 2",
+    "Year": "2016",
+    "imdbID": "tt6728000",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Origins Vol. 3",
+    "Year": "2016",
+    "imdbID": "tt6728010",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Dark Knight Vol. 1",
+    "Year": "2016",
+    "imdbID": "tt6728018",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Dark Knight Vol. 2",
+    "Year": "2016",
+    "imdbID": "tt6728026",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Dark Knight Vol. 3",
+    "Year": "2016",
+    "imdbID": "tt6728034",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Arkham City Vol. 1",
+    "Year": "2016",
+    "imdbID": "tt6728046",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "How I Be Batman",
+    "Year": "2017",
+    "imdbID": "tt6749430",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U4OTU3ZDEtNzBiZC00YjkwLTgzN2UtMTY2NDNlNzU0MmJiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Final Victory",
+    "Year": "2010",
+    "imdbID": "tt6824186",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzA0Y2UyNTMtN2Q4NC00YjczLWE4YTEtMWQ4MzA3NTRiMDQzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs Superman: The Best Superpower Ever",
+    "Year": "2016",
+    "imdbID": "tt6159030",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Good Knight (AKA Batman)",
+    "Year": "2014",
+    "imdbID": "tt6233928",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjMyOGU1ZmUtNTBiMi00MDQyLTg1YjAtMmFhNjQ2YzRmZmI0XkEyXkFqcGdeQXVyMTk1OTA1Mw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Because I'm Batman Films",
+    "Year": "2014\u2013",
+    "imdbID": "tt6297036",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman: A Fan Film",
+    "Year": "2013",
+    "imdbID": "tt6357440",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Chicano Batman: Black Lipstick",
+    "Year": "2016",
+    "imdbID": "tt6011504",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Pivot Batman",
+    "Year": "2015",
+    "imdbID": "tt5898370",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ2MTI1MWYtODNkYS00OGMzLTg1ZjUtNDFjYzliMTM1OTlmXkEyXkFqcGdeQXVyNjQwMTcyMjY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman the Dawn of the Knight",
+    "Year": "2016",
+    "imdbID": "tt5988932",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjVjZTY0MWUtZGE3Ny00MWQ2LWE4N2QtMDkyYzI1NTc1M2YxXkEyXkFqcGdeQXVyNjgyMjM1NTc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Remembers",
+    "Year": "2017",
+    "imdbID": "tt12948860",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Superfan Dogs: Batman and Superman Comics",
+    "Year": "2020",
+    "imdbID": "tt12410244",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDhjMGUwYzUtMWY3MS00Y2M2LWE3NGMtNzUwMzBhZjY1ODc3XkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_SX300.jpg"
+  },
+  {
+    "Title": "Scripts Gone Wild Batman 1966",
+    "Year": "2020",
+    "imdbID": "tt12432030",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWJhNDFhM2UtMjk0Ny00Y2VkLTk2YWItYWNkMTE2MDYwZjVjXkEyXkFqcGc@._V1_QL75_UX312_.jpg"
+  },
+  {
+    "Title": "Batman: Knightfall",
+    "Year": "2022",
+    "imdbID": "tt13087500",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTQwNmY4MmEtYjNhZi00MzJjLTgxNGItNmQyNmI0YzQ4NWNhXkEyXkFqcGdeQXVyMTIwNjUyOTA3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Lockdown",
+    "Year": "2020",
+    "imdbID": "tt13394336",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Aftermath",
+    "Year": "2022",
+    "imdbID": "tt13456320",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmJmYWU3YzAtY2ZmMS00MzU5LWI3ZDMtNGY1MjEwMWU3MTBmXkEyXkFqcGdeQXVyODgwOTAwMTU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Untitled Batman: Reboot",
+    "Year": "2022",
+    "imdbID": "tt13456446",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Choose Your Mission",
+    "Year": "2020",
+    "imdbID": "tt13470244",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Nostalgic Tomorrow: A Batman Gathering",
+    "Year": "2019",
+    "imdbID": "tt13478014",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzE4OTNhMTYtNTgwOC00MzE4LTgxMTYtODBiZDI0YzdjNzhhXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Darkest Knight (A Batman Musical)",
+    "Year": "2013",
+    "imdbID": "tt13516142",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZmY2U3OGItMTJhZi00MzIwLTk5YTYtMWMwOGE5OTBmOWY5XkEyXkFqcGdeQXVyMzMzMDMzMjQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: A Beautiful Lie",
+    "Year": "2022",
+    "imdbID": "tt13534276",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Stay 'Tooned! Presents - Batman: The Animated Series",
+    "Year": "2021",
+    "imdbID": "tt13701802",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NzQyYmMtYzE0OS00MjMyLTkxMzQtMDc3MjYzN2NkYThkXkEyXkFqcGdeQXVyMTg1NTMwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman V. Superman: Dawn of Justice (2016)",
+    "Year": "2016",
+    "imdbID": "tt13797668",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ4NmQyYTktMjEyNy00NGJkLWI1YmItOGZmNDkxYmU0N2I1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Untitled the Batman Spinoff",
+    "Year": "2023\u2013",
+    "imdbID": "tt15494650",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever (1995) Part One with AJ Detisch - Tommy Lee Jonesin' for the '90s",
+    "Year": "1995",
+    "imdbID": "tt15594328",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever (1995) Part Two with AJ Detisch - Tommy Lee Jonesin' for the '90s",
+    "Year": "1995",
+    "imdbID": "tt15594330",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDgzZTNhOWUtNGRmZi00Mjg3LTlmMmMtMjkyZjJmMmVmNGIzXkEyXkFqcGdeQXVyNzYzMTgwMw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman! Night of the Knight",
+    "Year": "2020",
+    "imdbID": "tt15598866",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjg3MTg2YzItY2M4Mi00NWI0LWJjYjUtYmI0ZDZjYTE5MDg3XkEyXkFqcGdeQXVyMTM5NDY3MjU4._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman back to Dawn",
+    "Year": "2021",
+    "imdbID": "tt15608658",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDJlNTY3NGUtYjc5Ny00MDk5LTg0NTMtMDYxMDA5NTQ2OGIwXkEyXkFqcGdeQXVyMTM5NDkxOTc1._V1_SX300.jpg"
+  },
+  {
+    "Title": "JDR Batman Gotham City Chronicles",
+    "Year": "2021\u2013",
+    "imdbID": "tt15672658",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Building with Batman",
+    "Year": "2020\u2013",
+    "imdbID": "tt15722756",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Sooperfilms' the Batman",
+    "Year": "2016",
+    "imdbID": "tt15799706",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTczMjgyYTEtZmUwZi00NDUwLThiNGQtYWQyMzY3YTNkMGY3XkEyXkFqcGdeQXVyMTA3OTkxNjQy._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman (1989)",
+    "Year": "1989",
+    "imdbID": "tt16417798",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Forever (1995)",
+    "Year": "1995",
+    "imdbID": "tt16417816",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4YzU4YTYtZDc3OC00NjcwLTlhM2ItNjlmYjNiMjFkMTRiXkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin (1997)",
+    "Year": "1997",
+    "imdbID": "tt16417820",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4YzU4YTYtZDc3OC00NjcwLTlhM2ItNjlmYjNiMjFkMTRiXkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg"
+  },
+  {
+    "Title": "RiffTrax Presents: Batman Forever",
+    "Year": "2009",
+    "imdbID": "tt16757454",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4ZjJjYWYtZWM1ZS00ZDBmLTkzYTAtNTQ1ZGIxOWIzMGU2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "I'm Batman (The Truth About Bats)",
+    "Year": "2014",
+    "imdbID": "tt16763806",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Fan Series",
+    "Year": "2020\u2013",
+    "imdbID": "tt16914522",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjJkY2RhM2MtZDQ3Ni00YTViLTg1ZDctZDMyNDJkYzYzNmVlXkEyXkFqcGdeQXVyNTU5MjczNg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Killing Joke",
+    "Year": "2024",
+    "imdbID": "tt17374750",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWY0M2IyNTQtYmY2Zi00NDk3LWFlMDktZTIwMmFkMjRmZTkwXkEyXkFqcGdeQXVyMzUwMTE1NzE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Transforma\u00e7\u00e3o Do Batman",
+    "Year": "2019",
+    "imdbID": "tt18104082",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTM4OWY3NjEtM2I0OS00OGI1LWFiYmUtYjFkMWM2OWNkYjQ4XkEyXkFqcGdeQXVyNTAzMjA2MDQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "LEGO Batman: Brick by Brick Featurette",
+    "Year": "2017",
+    "imdbID": "tt18296666",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Begins (2005)",
+    "Year": "2005",
+    "imdbID": "tt18303446",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzkyZTAzZjktMWVmMC00Yzg0LWIxZWYtNWRjMTljM2I3MjE2XkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Wayne Family Adventures",
+    "Year": "2022\u2013",
+    "imdbID": "tt18305174",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGM1NjNlNWMtY2M2Yy00ZjgyLThjOWYtYWMwMjc5ZjEyODdhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Wonder Woman vs the Batman",
+    "Year": "2022",
+    "imdbID": "tt18395286",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman (2022)",
+    "Year": "2022",
+    "imdbID": "tt18554796",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWU0Y2Q0ZmUtMjhiZS00NDljLWIwOWMtZjJkNWQ1MjEyODcwXkEyXkFqcGdeQXVyNTMxMTQ1NTk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman (2022)",
+    "Year": "2022",
+    "imdbID": "tt18601798",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjdiYjljZGEtZGZlYy00YTI4LWFlNjItZDRjYjZiMGZkMDU1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Superman: Agent of Batman",
+    "Year": "2020",
+    "imdbID": "tt14857194",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Unburied",
+    "Year": "2021\u2013",
+    "imdbID": "tt15124208",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman",
+    "Year": "2020\u2013",
+    "imdbID": "tt15146020",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNhZDhmMDktMzM1Yi00MTM1LTgzZGMtZmJlNGU5NDg3NTgyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Audio Adventures",
+    "Year": "2021\u2013",
+    "imdbID": "tt15179396",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Case of the Laughing Death",
+    "Year": "2021",
+    "imdbID": "tt15424526",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZlZDZiMDUtOTMyNy00OWU0LTgxOTgtYjY5OGJmMzhiMGQwXkEyXkFqcGdeQXVyMTc1NTkwNjk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman beyond the movie",
+    "Year": "2023",
+    "imdbID": "tt18938888",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "What If I Killed Batman?",
+    "Year": "2020",
+    "imdbID": "tt13834204",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjhhOGY2ODItYWIyOC00N2JkLWEzM2YtYWIzOGNmMzdlODYzXkEyXkFqcGdeQXVyMzU4MzY2NDg@._V1_SX300.jpg"
+  },
+  {
+    "Title": "What if Batman?",
+    "Year": "2021",
+    "imdbID": "tt13938264",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmE1MDBlODYtNzdmMS00ZTRmLWI3N2UtOTgyN2NlOTEyMGYxXkEyXkFqcGdeQXVyODk0MjY2MTc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Under the Dark",
+    "Year": "2020\u2013",
+    "imdbID": "tt13998876",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmUxM2Q4Y2ItOGU4OS00YmExLWJkZTctYTAzMjBmOGFjOTgwXkEyXkFqcGdeQXVyMTI1NjYyNzE3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego batman-the zombie riddler",
+    "Year": "2021",
+    "imdbID": "tt14242596",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmRlYjdlZTYtYWNlZC00NGE0LWJjMjQtYWFjNDVlYTk0NTc0XkEyXkFqcGdeQXVyMTI1MTY5MDAx._V1_SX300.jpg"
+  },
+  {
+    "Title": "What the Hell Happened in the Writer's Room: Batman Returns",
+    "Year": "2020",
+    "imdbID": "tt14315468",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzc5ODEyZmQtOTQ5Zi00YjRjLTg5NzAtZGZiNTdhOTY1MThlXkEyXkFqcGdeQXVyNjkxNDYxODY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Raw Groove",
+    "Year": "2021",
+    "imdbID": "tt14488904",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Other Worlds",
+    "Year": "2021",
+    "imdbID": "tt14364244",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDI3MDA2MDUtNzc4OS00NjIyLWI5ZjctMzE2MjM2MGFkOTMxXkEyXkFqcGdeQXVyMjI1MTU4OTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Holy BatCast 353 - Carl Newman, Keaton's Movement Double in Batman (1989)",
+    "Year": "1989",
+    "imdbID": "tt21754174",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWMxNTI4YzItYjc4MS00NmFjLWI0MTktMzI3MGEyOWU3MDc2XkEyXkFqcGdeQXVyMjg2NzY5Mw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman now (Fan film)",
+    "Year": "2017",
+    "imdbID": "tt21806092",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Heart of Ice",
+    "Year": "2022",
+    "imdbID": "tt21825892",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODc5YWU2MzUtZGFkNS00MWRiLTg2OTYtOThiZTJmNTQzNWEwXkEyXkFqcGdeQXVyMTAwOTU0ODgz._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman",
+    "Year": "2022\u2013",
+    "imdbID": "tt21953682",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTNlZjc1MTUtNWEzYi00YTkwLTgxNGItNmVlOTI1YTNhMzViXkEyXkFqcGdeQXVyMTI3NDUwMzg5._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Dawn Sequel",
+    "Year": "2022",
+    "imdbID": "tt22041034",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman v Superman: The Dawn Of Justice (2016) V.S. Captain America: Civil War (2016) W/Dan Keatis",
+    "Year": "2016",
+    "imdbID": "tt22087648",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ2MWJlZmUtNWMxMi00MjdjLWFhNDctNjBiZjZhYjAyZTQyXkEyXkFqcGdeQXVyMzg2NjIxNTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego: The Batman",
+    "Year": "2022",
+    "imdbID": "tt22098332",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZDU0NmUtZTg4NC00OWY0LWEyZjgtODllNjhlY2YwMTYyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Episode 208: &quot;Batman&quot; (1989): Movie Review",
+    "Year": "1989",
+    "imdbID": "tt22375898",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzQ5Y2EtMjhiYS00ZDc5LWI1ZDUtNmU3MGRhYTZkYzMyXkEyXkFqcGdeQXVyMTUyMTUzNjE0._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Taking Flight",
+    "Year": "2022",
+    "imdbID": "tt22855072",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTUxZWM4ZmEtMmM3ZS00N2ZhLWIwZWUtZGVjNTE2MTNmODIxXkEyXkFqcGdeQXVyMjkxNjk4NDU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman (2022) - I'M VENGEANCE",
+    "Year": "2022",
+    "imdbID": "tt22929736",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Unqualified Observers 37: The Batman (2022) Discussion with Special Guest Collin Miller",
+    "Year": "2022",
+    "imdbID": "tt22934440",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman VS the Joker",
+    "Year": "2023",
+    "imdbID": "tt23117982",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkNTVkNDAtNTI4Mi00ZmEzLWFjMTQtYmJhNzI1OTQxNjllXkEyXkFqcGdeQXVyNzc2MjU5MzA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "LEGO Batman: The Phobia Archive",
+    "Year": "2015",
+    "imdbID": "tt24222178",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmE5NGIxZDItNzQzZS00ODkyLWE5NjItODhhMGUyYjg4NzI0XkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Darkness of Day",
+    "Year": "2022",
+    "imdbID": "tt19267476",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmE1MDliYmMtYWRhOC00MGI3LTkyMTItYWZlOGI4NWRiNjY5XkEyXkFqcGdeQXVyMTUwMTQyMDA2._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman City of Heros",
+    "Year": "2015",
+    "imdbID": "tt19425140",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjBkNTM3MDItNmMxMy00YTFjLTg2OWEtYmY3ZTNhNTg3MzM1XkEyXkFqcGdeQXVyOTM0NzUzMDE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Adventures Continue - Broken or Beautiful?",
+    "Year": "2021",
+    "imdbID": "tt19759834",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman: Part II",
+    "Year": "2027",
+    "imdbID": "tt19850008",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzhiYWUtYThlZi00OWIyLTk3YWEtZjY3NmJjOTZiZDAyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman (2022)",
+    "Year": "2022",
+    "imdbID": "tt20149464",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "RedRacc: Lego Batman: The Video Game",
+    "Year": "2022\u2013",
+    "imdbID": "tt20221002",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman (2022)",
+    "Year": "2022",
+    "imdbID": "tt20871066",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmYyZmZlZWUtZDIyMi00ZWM4LTk4NmUtNWNiY2JkYzU1MGY0XkEyXkFqcGdeQXVyMTIxMzgxMTE1._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Series",
+    "Year": "2024\u2013",
+    "imdbID": "tt21025456",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzEyY2VjOGYtNDc2Mi00YTA1LWI4Y2EtYjg5MDBlYWIwMWJkXkEyXkFqcGdeQXVyMTQ3MzQ2NDgy._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman Show",
+    "Year": "1970\u20131971",
+    "imdbID": "tt27634623",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTI4NDFlNTQtM2QwMC00MGM5LWIyZjktMjNiYTVmYjdiN2UyXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Killing Joke",
+    "Year": "2020",
+    "imdbID": "tt27672939",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjU1YzA2YWEtNWY0ZC00NjFkLWI0OGUtYWZiODNkYWNlMWIxXkEyXkFqcGdeQXVyMTU3ODE4OTU3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Making of a Hero",
+    "Year": "1989",
+    "imdbID": "tt27788317",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDUwNGJlNWEtYmIxNy00NzRjLWE2ZTktYzhlNzg5YmEwMzFiXkEyXkFqcGdeQXVyMzY4ODk0Nw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Joshua Batman Meltdown",
+    "Year": "2022",
+    "imdbID": "tt21368950",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Shadows of Gotham",
+    "Year": "2023",
+    "imdbID": "tt28015775",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5YzM1YTYtNzA2MS00NmNmLTliMzctNmI4ODg4NzJkMzk2XkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman: The Dark Dynasty Continues",
+    "Year": "2022",
+    "imdbID": "tt28080915",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZkOTcyYzItODlmZC00NjIxLWE4MTctMmE5ZmZhYmE1YzgwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman the Prey",
+    "Year": "2022",
+    "imdbID": "tt28153008",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWRlNzI4MjktZGMzNi00MmVkLTkyZTQtN2FkM2I0MTAxYjY1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: Knight of the Shadows",
+    "Year": "2019\u2013",
+    "imdbID": "tt28262652",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDgwOWRlM2QtZjcxYy00ZmRiLWFkZjItNDI5NGFiYTFhOGJlXkEyXkFqcGdeQXVyMTEwOTg3MDU3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Batman: Into the Shadows",
+    "Year": "2022\u20132023",
+    "imdbID": "tt28262786",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxZTllMzAtZjQ1Yi00MGE5LWIxNzgtNjIyOWNlZGMzNDhlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Fear the Batman",
+    "Year": "2023",
+    "imdbID": "tt28378595",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgwYzQxM2QtM2Y1Yi00OTk0LTg0ZWEtNjcwMDQ0YzdmNDk4XkEyXkFqcGdeQXVyMTY4NDUzNDE5._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman vs. Two-Face (2017)",
+    "Year": "2017",
+    "imdbID": "tt28548781",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: Bricks, Bats & Bad Guys",
+    "Year": "2006",
+    "imdbID": "tt28696634",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman The Movie (1966)",
+    "Year": "1966",
+    "imdbID": "tt28871620",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: The Adventures Continue",
+    "Year": "2020\u20132023",
+    "imdbID": "tt29008703",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2JjOTUxMDQtMWU0NS00NjljLTlhYTktYzhjN2U2YWYyY2JmXkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman: Grundy's Night (2005) Commentary",
+    "Year": "2005",
+    "imdbID": "tt26409410",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman the Show",
+    "Year": "2022\u20132024",
+    "imdbID": "tt26741255",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzdhMzFmM2UtYTUyYi00NTgwLWFlYmMtNmVlZTc3YjBiNmU2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Twisted Batman Theatre",
+    "Year": "1998",
+    "imdbID": "tt26744226",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODRmNDhiOWUtOTYyMy00OGU3LWE2NzQtMGZmYjYwOGJlMzZlXkEyXkFqcGdeQXVyMTUzMDg0MjYx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Gotham Pizza - Second Serving",
+    "Year": "2022",
+    "imdbID": "tt26781724",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGU5NjY4Y2UtMGY2Mi00ZTgzLTg1NDktYjkyZGZjNjBjNzljXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Ballad of Alan Batman",
+    "Year": "2023",
+    "imdbID": "tt27238646",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWM5MGU4NWYtOTgyMC00MDM3LWFkMGEtYjM0Njk2MjBlMTgzXkEyXkFqcGdeQXVyMTYzNjczNzYw._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Arkham City: End Game",
+    "Year": "2014\u20132019",
+    "imdbID": "tt27251650",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmU3ZjNkZjgtNmZmNy00OGQ4LTlhMmMtZmI5ODgxZDc0NTdkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "IS BATMAN (1966) THE BEST BATMAN MOVIE?",
+    "Year": "1966",
+    "imdbID": "tt27268947",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batgirl Teaches Batman a Lesson About Equal Pay",
+    "Year": "1973",
+    "imdbID": "tt24237538",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTNlNzlmOGQtMDgxMS00MWEwLTlhOGMtMTI3MWU2N2JlY2NiXkEyXkFqcGdeQXVyMzY4ODk0Nw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Episode 01 - Batman (1989)",
+    "Year": "1989",
+    "imdbID": "tt24266102",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman: The Series",
+    "Year": "2015\u2013",
+    "imdbID": "tt24326128",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYwY2I4ZWYtZTQ4Zi00MjIyLWI5M2UtNWQyOWM0Zjg4ZjlhXkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Returns (1992)",
+    "Year": "1992",
+    "imdbID": "tt24819774",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Returns (1992)",
+    "Year": "1992",
+    "imdbID": "tt25210348",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Son of the Mask (2005) (Guest: Ryan Hoss Writer Batman On Film + Super Mario Bros. The Movie Archive)",
+    "Year": "2005",
+    "imdbID": "tt25210988",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "47: Batman & Robin (1997)",
+    "Year": "1997",
+    "imdbID": "tt25281120",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "FRESH CUTS - The Batman (2022)",
+    "Year": "2022",
+    "imdbID": "tt25281158",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "44: Batman (1989)",
+    "Year": "1989",
+    "imdbID": "tt25281222",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "52: The Batman (2022)",
+    "Year": "2022",
+    "imdbID": "tt25282298",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "51: The Lego Batman Movie (2017)",
+    "Year": "2017",
+    "imdbID": "tt25282634",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Carpool",
+    "Year": "2020",
+    "imdbID": "tt25397176",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Firefly-A Batman Short Fan Film",
+    "Year": "2022",
+    "imdbID": "tt25812266",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman",
+    "Year": "2014\u20132018",
+    "imdbID": "tt26246998",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTg0OTk3NjAtY2EzNC00N2YwLTg2ODUtN2M5MGQwYmJjNTc3XkEyXkFqcGdeQXVyOTAwNTI4NDM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Manhunt",
+    "Year": "2023",
+    "imdbID": "tt29064227",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjNjYmNiYmYtMGFjNi00OTA0LTkzMDAtYzBiYTFkYzAyOGE4XkEyXkFqcGdeQXVyMTcwMzQ1Mjg0._V1_SX300.jpg"
+  },
+  {
+    "Title": "Vice Press x Thought Bubble Present: Batman",
+    "Year": "1989",
+    "imdbID": "tt29314118",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: A Taste of Terror",
+    "Year": "2023",
+    "imdbID": "tt29371331",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2YzZjZlZmUtYzE5ZS00OTY3LWE2NWMtNTY5YmIzNDljM2FhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Batman Plancarte",
+    "Year": "2022",
+    "imdbID": "tt29579769",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTBjNzgzZDgtYjkzMy00MDlmLWJiNTItMWUzYmJhMmQ0ZjA2XkEyXkFqcGdeQXVyMTY0NjcxNjYx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Just A Mortal",
+    "Year": "2023\u2013",
+    "imdbID": "tt29824876",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWFkZTkzM2MtZWQwMS00ZDIwLWE2NjUtYTFiYjg4NzQ2ZGRlXkEyXkFqcGdeQXVyMTcyNDU1ODI4._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Detective Comics",
+    "Year": "2023",
+    "imdbID": "tt30498519",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTdhMTE1ZTMtNDc5Ny00YjNiLWEzN2YtMzFiNGNhZWRlOTljXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Exordium",
+    "Year": "2024\u2013",
+    "imdbID": "tt30769035",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ4NzdjOTUtYTU4MS00NWYxLWJmMjAtOWQwMTUyMTkyMjFjXkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman The",
+    "Year": "2022",
+    "imdbID": "tt30836123",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ2OTFhNzMtNDc5NS00NTJjLTllZDUtNjJkYWMyOTUyN2I4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Justice for Batman: The Mark Racop Case",
+    "Year": "2023",
+    "imdbID": "tt30873804",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2UwM2VkYjYtZjBhYy00Njc4LWE0MjAtMDU5MWNiYWFhOWIwXkEyXkFqcGdeQXVyMTc4Nzc3NzM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Aftermath",
+    "Year": "2022",
+    "imdbID": "tt31077499",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjOGQ2Y2ItZmFlNS00ZmVkLWI3OGUtNmFhMmRjOGE1NTM4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman thalaivargal",
+    "Year": "2024",
+    "imdbID": "tt31433162",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmU2N2RkZjItMmZlMS00ZDE5LWExZjgtMDUzODRkN2JiYTU0XkEyXkFqcGdeQXVyMTU3NDgzODEx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman thalaivargal part 2",
+    "Year": "2024",
+    "imdbID": "tt31434669",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Arkham Insider",
+    "Year": "2015",
+    "imdbID": "tt31709651",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmExMGM4ZTItMDMyZS00OTg1LWFlYzMtOTg5ZTZhYTE3MDMzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Shadow of Darkness",
+    "Year": "2016",
+    "imdbID": "tt31790685",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmE5MWI5MTAtN2JhNi00M2E4LWEwZmMtMDFmZTllNmMwYzJhXkEyXkFqcGdeQXVyMTI0OTQ5MTYw._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Beyond: Year One",
+    "Year": "2002",
+    "imdbID": "tt31912032",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman VS the Joker 2: Miami's Freedom",
+    "Year": "2024",
+    "imdbID": "tt31923288",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzMTY1ZTEtNzA5NC00OTNhLTlhYzktYWIxYWM4NzE5MDRhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman 1989 Movie in LEGO Stop Motion!",
+    "Year": "2024",
+    "imdbID": "tt34375260",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Batman V Suge Knight",
+    "Year": "2024",
+    "imdbID": "tt34375284",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1OGQ3MTEtZTBlOS00Zjg5LWJhN2MtMGRhZmYwODIzYzI1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Lego Batman Adventures",
+    "Year": "2011\u2013",
+    "imdbID": "tt34470902",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Black Joker vs Thomas Wayne Batman",
+    "Year": "2024",
+    "imdbID": "tt34510125",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Fears",
+    "Year": "2023",
+    "imdbID": "tt34621964",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGUxMjJkYjMtNzE2OS00MTJkLTllYWMtZWVlNmM1YjA4OTQ3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Tales of Batman: Arkham",
+    "Year": "2011\u2013",
+    "imdbID": "tt34792551",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Tales of Batman: Arkham Specials",
+    "Year": "2017",
+    "imdbID": "tt34792683",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Tales of Batman: Arkham: Cold, Cold Heart",
+    "Year": "2013",
+    "imdbID": "tt34792696",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman the series: Under the Red Hood pilot movie",
+    "Year": "2023",
+    "imdbID": "tt34821811",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman the Brave and the Bold: The Long Night",
+    "Year": "2025",
+    "imdbID": "tt34909130",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjNlNjE0YTQtYzNjYy00YWQ2LThiY2QtZDkwN2YxZTUzNzI2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Freeze the Batman",
+    "Year": "2022",
+    "imdbID": "tt35231163",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Cave",
+    "Year": "2029",
+    "imdbID": "tt35303922",
+    "Type": "series",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman and Robin Talk Fan Film",
+    "Year": "2016",
+    "imdbID": "tt35310049",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjRjMTE1ODItYmFkZS00ZjdjLThiZDYtMDhlYmUxOGIyOWE1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman and Robin Meet the Clock Man Fan Film",
+    "Year": "2018",
+    "imdbID": "tt35310062",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2VhNDNhYTYtNWI2Ni00NDhkLWE3ZWEtY2RjYjc5MWI0MDgyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman - Unexpected East Frisia",
+    "Year": "2025",
+    "imdbID": "tt35853905",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5MmM1ZWQtMWFkYy00OGM0LTk3OWEtMzJlMWFhODUwOGQ4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: The Darkest Knight",
+    "Year": "2024",
+    "imdbID": "tt35885660",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2YxNjJhNzgtOWFkYS00YzEzLTk0NDItN2MxY2IzZWFjM2YxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Shattered Soul",
+    "Year": "2020",
+    "imdbID": "tt35914353",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQyZTIyYjMtNGNlYi00NDdlLThkNGItNmZiNGJhNDVmYzAxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman the series: Road to Under the Red Hood",
+    "Year": "2023",
+    "imdbID": "tt36157261",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDIyNTk5ZjktNTY5Mi00MmU3LWEwYTYtODk2YjY5ZmRlOTY5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Shadow of Justice",
+    "Year": "2025",
+    "imdbID": "tt36454134",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3MTA5MDUtOWViMS00MTVkLThjZDktOWE2MDhlNTFlZTcxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Unmasked",
+    "Year": "2025",
+    "imdbID": "tt36600032",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDY1Y2VmYjQtZGE5MC00Y2ExLTkzYTUtM2I4NGI0NTMyYWM0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman Goes to Therapy",
+    "Year": "2024",
+    "imdbID": "tt36606959",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1NjQyYzctZjBkNi00OWViLWIxZTItYzUxYWIzNTkwNzk2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "IS The Batman (2022) Movie WORTH Watching?",
+    "Year": "2022",
+    "imdbID": "tt36737157",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Lego Batman Series",
+    "Year": "2015\u2013",
+    "imdbID": "tt42261289",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODk0ZjA0ZTQtNDZiNS00ZTg0LWJlZTgtMjllYTdjNzg4NDRjXkEyXkFqcGc@._V1_QL75_UY562_CR236,0,380,562_.jpg"
+  },
+  {
+    "Title": "Batman: The First Night",
+    "Year": "2023",
+    "imdbID": "tt32118859",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWE0ZmM1OGMtZTMyNy00OGM3LThiZDItZTFmZTJhZGYxMGQwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman the World's Greatest Detective",
+    "Year": "2017",
+    "imdbID": "tt32314977",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWRmMDQ3ZTctMTU3Ni00NGU3LTkzOTAtNWE3M2ZjMmMyYzhhXkEyXkFqcGdeQXVyNjg1MTAyNjA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman: Knightfall Part 1: Knightfall",
+    "Year": "2026",
+    "imdbID": "tt32333324",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2JkYzg3OGEtMjE2OS00ZTMwLWIyOTktYTQ5ZTI3ZmVkMTQyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Super Mario Nazi Batman",
+    "Year": "2008",
+    "imdbID": "tt32986180",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Knightfall",
+    "Year": "1994",
+    "imdbID": "tt33009163",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjYyNWNiMzMtOGRiYi00NWIwLWI2ZGYtYTc2NmZkODgyOWNiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman '66 Meets the Green Hornet",
+    "Year": "2020",
+    "imdbID": "tt33163918",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWE4M2ViZGItZDBjMy00MjI2LWE5MTktNDU2ZjJhYzg1YTVhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman & Robin",
+    "Year": "2008",
+    "imdbID": "tt33398419",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Actually Batman",
+    "Year": "2025",
+    "imdbID": "tt36860873",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Death of the Family",
+    "Year": "2025\u2013",
+    "imdbID": "tt37028715",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzg4YjMxZGMtMzQyYS00MzdiLWFiOTMtMjNlZTBiMTJlYWIwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "My friend Batman Tremblay",
+    "Year": "2025",
+    "imdbID": "tt37461686",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman Four of a Kind",
+    "Year": "2025",
+    "imdbID": "tt39105903",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Next Batman: Proof of Concept",
+    "Year": "2027",
+    "imdbID": "tt39392302",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzRkNTYwYzUtNThlZS00MjQxLTk5YmItODA2MDYwZTA5NmIxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman V Superman: Dawn of Justice (Ultimate Edition)",
+    "Year": "2016",
+    "imdbID": "tt39637047",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Batman: Shadows Over Gotham",
+    "Year": "2025",
+    "imdbID": "tt40197271",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYxYzcyYjktZDgxNy00MTA1LWFhNmQtY2ZhYjcxNGM5YWIwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg"
+  }
+]
