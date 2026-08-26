@@ -275,10 +275,6 @@ def extract_trips(conn):
         tc.cancelled_by          -- from trip_cancellations (NULL for non-cancelled)
     FROM  trips t
     LEFT JOIN trip_cancellations tc ON t.trip_id = tc.trip_id
-<<<<<<< HEAD
-=======
-   -- WHERE t.requested_at > %()s
->>>>>>> 71b79c5e0eb70ac639a7830c53fc7cf8eee3fc80
     ORDER BY t.requested_at
         """
     return extract(conn,extract_trip_sql)
