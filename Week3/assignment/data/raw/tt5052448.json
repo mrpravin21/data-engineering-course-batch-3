@@ -1,0 +1,40 @@
+{
+  "Title": "Get Out",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "24 Feb 2017",
+  "Runtime": "104 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Jordan Peele",
+  "Writer": "Jordan Peele",
+  "Actors": "Daniel Kaluuya, Allison Williams, Bradley Whitford",
+  "Plot": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+  "Language": "English, Swahili",
+  "Country": "United States, Japan",
+  "Awards": "Won 1 Oscar. 154 wins & 214 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "7.8",
+  "imdbVotes": "814,293",
+  "imdbID": "tt5052448",
+  "Type": "movie",
+  "DVD": "09 May 2017",
+  "BoxOffice": "$176,196,665",
+  "Production": "Universal Pictures, QC Entertainment, Blumhouse Productions",
+  "Website": "N/A",
+  "Response": "True"
+}

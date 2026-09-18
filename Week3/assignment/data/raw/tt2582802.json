@@ -1,0 +1,40 @@
+{
+  "Title": "Whiplash",
+  "Year": "2014",
+  "Rated": "R",
+  "Released": "15 Oct 2014",
+  "Runtime": "106 min",
+  "Genre": "Drama, Music",
+  "Director": "Damien Chazelle",
+  "Writer": "Damien Chazelle",
+  "Actors": "Miles Teller, J.K. Simmons, Melissa Benoist",
+  "Plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 100 wins & 144 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "Metascore": "89",
+  "imdbRating": "8.5",
+  "imdbVotes": "1,134,459",
+  "imdbID": "tt2582802",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$14,003,391",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

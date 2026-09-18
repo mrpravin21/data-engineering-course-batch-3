@@ -1,0 +1,40 @@
+{
+  "Title": "Coco",
+  "Year": "2017",
+  "Rated": "PG",
+  "Released": "22 Nov 2017",
+  "Runtime": "105 min",
+  "Genre": "Animation, Adventure, Drama",
+  "Director": "Adrian Molina, Lee Unkrich",
+  "Writer": "Adrian Molina, Matthew Aldrich, Lee Unkrich",
+  "Actors": "Anthony Gonzalez, Gael Garc\u00eda Bernal, Benjamin Bratt",
+  "Plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+  "Language": "English, Spanish",
+  "Country": "United States, Mexico",
+  "Awards": "Won 2 Oscars. 113 wins & 42 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "8.4",
+  "imdbVotes": "704,092",
+  "imdbID": "tt2380307",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$210,460,015",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
