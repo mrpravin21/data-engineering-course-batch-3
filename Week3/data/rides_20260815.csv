@@ -1,0 +1,11 @@
+ride_id,driver_name,passenger_name,pickup_city,dropoff_city,fare_amount,ride_distance_km,ride_status,requested_at,completed_at,rating,payment_method
+5024,Sita Tamang,Bina Ghimire,Hetauda,Pokhara,419.76,46.46,completed,2026-08-15 10:24:13,2026-08-15 11:12:33.000000,3.1,cash
+5025,Kabita Lama,Meena Adhikari,Bhaktapur,Lalitpur,491.30,34.04,completed,2026-08-15 16:25:06,2026-08-15 17:16:38.000000,2.7,card
+5026,Deepak Thapa,Bina Ghimire,Birgunj,Bhaktapur,177.40,27.06,completed,2026-08-15 21:20:49,2026-08-15 22:22:54.000000,3.0,esewa
+5027,Sita Tamang,Bina Ghimire,Hetauda,Birgunj,736.74,33.60,cancelled,2026-08-15 02:41:25,,,card
+5028,Deepak Thapa,Ashok Neupane,Biratnagar,Kathmandu,206.83,25.29,completed,2026-08-15 04:54:16,2026-08-15 05:22:07.000000,,cash
+5029,Kabita Lama,Suman Giri,Hetauda,Biratnagar,405.96,20.06,completed,2026-08-15 19:26:16,2026-08-15 20:04:43.000000,4.3,khalti
+5030,Bikash Karki,Dipesh Oli,Kirtipur,Biratnagar,131.59,18.51,completed,2026-08-15 14:11:46,2026-08-15 14:34:36.000000,3.0,khalti
+5031,Suresh Magar,Kavya Poudel,Kathmandu,Butwal,301.03,34.04,completed,2026-08-15 13:04:40,2026-08-15 13:49:31.000000,,khalti
+5032,Rajan Pandey,Suman Giri,Kirtipur,Bhaktapur,423.37,29.18,cancelled,2026-08-15 12:50:54,,,khalti
+5033,Rajan Pandey,Bina Ghimire,Butwal,Biratnagar,123.59,10.67,completed,2026-08-15 18:01:20,2026-08-15 18:15:48.000000,3.1,khalti
